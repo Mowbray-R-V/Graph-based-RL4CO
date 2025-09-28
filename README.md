@@ -1,5 +1,6 @@
 # Tutorial 
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+2. [Geometric deep learning book](https://geometricdeeplearning.com/book/)
 
 # Graph based RL4CO
 1. GCOMB: Learning budget-constrained combinatorial algorithms over billion-sized graphs — NeurIPS 2020  
