@@ -2,12 +2,6 @@
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 
 # Graph based RL4CO
-# Influence Maximization and Combinatorial Optimization with Deep Learning
-
-This repository collects important papers on influence maximization and budget-constrained combinatorial optimization using deep learning, graph neural networks, and reinforcement learning.
-
-## Papers
-
 1. GCOMB: Learning budget-constrained combinatorial algorithms over billion-sized graphs — NeurIPS 2020  
 2. LeNSE: Learning to navigate subgraph embeddings for large-scale combinatorial optimisation — ICML 2022  
 3. PIANO: Influence maximization meets deep reinforcement learning — IEEE Transactions on Computational Social Systems, 2023  
