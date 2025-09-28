@@ -29,15 +29,15 @@
 # GNN scalability 
 
 1. GNN acceleration for large scale graphs — Beyond Message Passing: Neural Graph Pattern Machine, ICML 2025  
-2. Survey on graph neural network acceleration: An algorithmic perspective — Xin Liu, Mingyu Yan, Lei Deng, Guoqi Li, Xiaochun Ye, Dongrui Fan, Shirui Pan, Yuan Xie, 2022  
-3. Acceleration algorithms in GNNs: A survey — Lu Ma, Zeang Sheng, Xunkai Li, Xinyi Gao, Zhezheng Hao, Ling Yang, Xiaonan Nie, Jiawei Jiang, Wentao Zhang, Bin Cui — IEEE Transactions on Knowledge and Data Engineering, 2025  
+2. Survey on graph neural network acceleration: An algorithmic perspective —  2022  
+3. Acceleration algorithms in GNNs: A survey — IEEE Transactions on Knowledge and Data Engineering, 2025  
 4. A Survey on Graph Neural Network Acceleration: A Hardware Perspective  
 5. A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware  
-6. A comprehensive survey on distributed training of graph neural networks — Haiyang Lin, Mingyu Yan, Xiaochun Ye, Dongrui Fan, Shirui Pan, Wenguang Chen, Yuan Xie — ACM Computing Surveys  
+6. A comprehensive survey on distributed training of graph neural networks — ACM Computing Surveys  
 7. Distributed Graph Neural Network Training: A Survey  
-8. Ripple: Scalable incremental GNN inferencing on large streaming graphs — Pranjal Naman, Yogesh Simmhan — ICDCS 2025  
-9. GNNIE: GNN inference engine with load-balancing and graph-specific caching — Sudipta Mondal, Susmita Dey Manasi, Kishor Kunal, S. Ramprasath, Sachin S. Sapatnekar, 2022  
-10. LMC: Fast training of GNNs via subgraph-wise sampling with provable convergence — Zhihao Shi, Xize Liang, Jie Wang — ICLR 2023  
+8. Ripple: Scalable incremental GNN inferencing on large streaming graphs — ICDCS 2025  
+9. GNNIE: GNN inference engine with load-balancing and graph-specific caching — 2022  
+10. LMC: Fast training of GNNs via subgraph-wise sampling with provable convergence — ICLR 2023  
 11. Scaling graph-neural-network training with CPU-GPU clusters  
 12. PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm  
 13. GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks  
@@ -59,3 +59,11 @@
 1. GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks, TMLR 2025
 
 # HPC basic codes for this project
+
+
+# Lbraries
+1. PSGraph 
+2. [AliGraph](https://github.com/alibaba/graph-learn)
+3. [PGL: https](//github.com/PaddlePaddle/PGL)
+4. [Euler](https://github.com/alibaba/euler)
+5. [SGL](https://github.com/PKU-DAIR/SGL)
