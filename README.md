@@ -1,6 +1,13 @@
 # Tutorial 
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 2. [Geometric deep learning book](https://geometricdeeplearning.com/book/)
+3. [Math behind GNN ](https://rish-16.github.io/posts/gnn-math/)
+
+# Key papers
+1. Theory of Graph Neural Networks: Representation and Learning
+2. A Comprehensive Survey on Graph Neural Networks, 2019
+3. How powerfule are graph neural nwtwork ? . ICLR 2019
+4. 
 
 # Graph based RL4CO
 1. GCOMB: Learning budget-constrained combinatorial algorithms over billion-sized graphs — NeurIPS 2020  
@@ -52,12 +59,10 @@
 
 
 
-#  GNN Simplification (separates aggregation from update)
+#  GNN Simplification (Decouples graph propagation from feature transformation)
 1. 
 
 
-# Papers
-1. GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks, TMLR 2025
 
 # HPC basic codes for this project
 
