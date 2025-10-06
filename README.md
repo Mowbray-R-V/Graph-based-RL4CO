@@ -55,7 +55,8 @@
 
 
 
-
+# Different graph propagation techniques
+1. 
 
 
 
