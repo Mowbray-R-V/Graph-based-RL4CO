@@ -10,7 +10,7 @@
 4. 
 
 
-# Graph embedding (Converts graphs into continuous vector spaces)
+# Graph embedding (Converts graphs(high dimensional , non-euclidean space) into low-dimensional continuous vector spaces)
 
 
 # Graph based RL4CO
