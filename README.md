@@ -9,6 +9,10 @@
 3. How powerfule are graph neural nwtwork ? . ICLR 2019
 4. 
 
+
+# Graph embedding (Converts graphs into continuous vector spaces)
+
+
 # Graph based RL4CO
 1. GCOMB: Learning budget-constrained combinatorial algorithms over billion-sized graphs — NeurIPS 2020  
 2. LeNSE: Learning to navigate subgraph embeddings for large-scale combinatorial optimisation — ICML 2022  
