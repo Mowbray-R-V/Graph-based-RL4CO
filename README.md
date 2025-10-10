@@ -11,7 +11,8 @@
 
 
 # Graph embedding (Converts graphs(high dimensional , non-euclidean space) into low-dimensional continuous vector spaces)
-
+1. Understanding Graph Embedding Methods and Their Applications
+2. Toward Understanding and Evaluating Structural Node Embeddings, ACM 2021
 
 # Graph based RL4CO
 1. GCOMB: Learning budget-constrained combinatorial algorithms over billion-sized graphs — NeurIPS 2020  
