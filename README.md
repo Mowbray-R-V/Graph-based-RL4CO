@@ -9,6 +9,38 @@
 3. How powerfule are graph neural nwtwork ? . ICLR 2019
 4. 
 
+# Graph neural netwrok
+## Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis)
+1. Spectral Convolutional Neural Network (Spectral CNN), ICLR 2014  
+2. Chebyshev Graph Convolutional Network (ChebNet), NeurIPS 2016  
+3. Graph Convolutional Network (GCN), ICLR 2017  
+4. CayleyNet (CayleyNet), ICML 2018  
+5. GraphWave / DiffusionWavelet (GraphWave), KDD 2018  
+6. Lanczos Network (LanczosNet), ICLR 2019  
+7. Spectral Attention Network (SAN), NeurIPS 2020  
+8. Fourier Graph Neural Network (Fourier GNN), ICLR 2021  
+9. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021
+
+
+## Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages)
+1. GraphSAGE (GraphSAGE), NeurIPS 2017  
+2. Graph Attention Network (GAT), ICLR 2018  
+3. Message Passing Neural Network (MPNN), ICML 2017  
+4. Graph Isomorphism Network (GIN), ICLR 2019  
+5. MoNet (Mixture Model Network), CVPR 2017  
+6. Edge Convolutional Neural Network (EdgeConv / DGCNN), NeurIPS 2018  
+7. Graph Sample and Aggregate (FastGCN), ICLR 2018  
+8. GraphSAINT (GraphSAINT), ICLR 2020  
+9. Cluster-GCN (Cluster-GCN), KDD 2019  
+10. Graph Neural Diffusion (GDC), NeurIPS 2019  
+11. Adaptive Graph Convolutional Network (AGCN), AAAI 2018  
+12. Simplifying Graph Convolutional Networks (SGC), ICML 2019  
+13. Graph Transformer Network (GTN), NeurIPS 2019  
+14. Graph Convolutional Network for Semi-Supervised Learning (GCNII), ICML 2020  
+15. Graph Field Network (GFN), NeurIPS 2021
+
+
+
 
 # Graph embedding (Converts graphs-high dimensional,non-euclidean space into low-dimensional continuous vector spaces)
 1. Understanding Graph Embedding Methods and Their Applications
