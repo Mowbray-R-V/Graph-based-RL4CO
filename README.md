@@ -10,7 +10,7 @@
 4. 
 
 
-# Graph embedding (Converts graphs(high dimensional , non-euclidean space) into low-dimensional continuous vector spaces)
+# Graph embedding (Converts graphs-high dimensional,non-euclidean space into low-dimensional continuous vector spaces)
 1. Understanding Graph Embedding Methods and Their Applications
 2. Toward Understanding and Evaluating Structural Node Embeddings, ACM 2021
 
