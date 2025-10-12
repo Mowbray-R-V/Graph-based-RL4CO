@@ -40,6 +40,10 @@
 15. Graph Field Network (GFN), NeurIPS 2021
 
 
+# Oversmoothing 
+1. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning, AAAI 2018
+2. Evaluating Deep Graph Neural Networks, 2017
+
 
 
 # Graph embedding (Converts graphs-high dimensional,non-euclidean space into low-dimensional continuous vector spaces)
