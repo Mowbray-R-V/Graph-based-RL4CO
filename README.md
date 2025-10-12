@@ -2,6 +2,7 @@
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 2. [Geometric deep learning book](https://geometricdeeplearning.com/book/)
 3. [Math behind GNN ](https://rish-16.github.io/posts/gnn-math/)
+4. [GCN video](https://www.youtube.com/watch?v=5SintlY9hbY&t=743s)
 
 # Key papers
 1. Theory of Graph Neural Networks: Representation and Learning
