@@ -23,7 +23,9 @@
 10. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021
 
 
-## Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages)
+## Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages) 
+This methods basically have two steps 1) Feature smoothing → captures graph structure, 2) Feature transformation → captures feature semantics (learns a better rprsentation space speific for teh downstream problem)
+---------------------------------------
 1. GraphSAGE (GraphSAGE), NeurIPS 2017  
 2. Graph Attention Network (GAT), ICLR 2018  
 3. Message Passing Neural Network (MPNN), ICML 2017  
