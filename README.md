@@ -14,7 +14,7 @@
 ## Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis)
 1. Spectral Convolutional Neural Network (Spectral CNN), ICLR 2014  
 2. Chebyshev Graph Convolutional Network (ChebNet), NeurIPS 2016  
-3. Graph Convolutional Network (GCN), ICLR 2017  **(Personal intitution: have a shared weights CNN visulasation in mind to have a better understanding)**
+3. Graph Convolutional Network (GCN), ICLR 2017  **(Personal intitution: have a shared weights CNN visualisation in mind to have a better understanding)**
 5. CayleyNet (CayleyNet), ICML 2018  
 6. GraphWave / DiffusionWavelet (GraphWave), KDD 2018  
 7. Lanczos Network (LanczosNet), ICLR 2019  
@@ -24,7 +24,7 @@
 
 
 ## Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages) 
-This methods basically have two steps 1) Feature smoothing → captures graph structure, 2) Feature transformation → captures feature semantics (learns embeedings in a better reprsentation space speific to the downstream problem)
+These methods basically have two steps 1) Feature smoothing → captures graph structure, 2) Feature transformation → captures feature semantics (learns embeedings in a better reprsentation space speific to the downstream problem)
 ---------------------------------------
 1. GraphSAGE (GraphSAGE), NeurIPS 2017  
 2. Graph Attention Network (GAT), ICLR 2018  
@@ -34,13 +34,11 @@ This methods basically have two steps 1) Feature smoothing → captures graph st
 6. Edge Convolutional Neural Network (EdgeConv / DGCNN), NeurIPS 2018  
 7. Graph Sample and Aggregate (FastGCN), ICLR 2018  
 8. GraphSAINT (GraphSAINT), ICLR 2020  
-9. Cluster-GCN (Cluster-GCN), KDD 2019  
-10. Graph Neural Diffusion (GDC), NeurIPS 2019  
-11. Adaptive Graph Convolutional Network (AGCN), AAAI 2018  
-12. Simplifying Graph Convolutional Networks (SGC), ICML 2019  
-13. Graph Transformer Network (GTN), NeurIPS 2019  
-14. Graph Convolutional Network for Semi-Supervised Learning (GCNII), ICML 2020  
-15. Graph Field Network (GFN), NeurIPS 2021
+9. Cluster-GCN (Cluster-GCN), KDD 2019
+10. Adaptive Graph Convolutional Network (AGCN), AAAI 2018
+11. Graph Transformer Network (GTN), NeurIPS 2019  
+12. Graph Convolutional Network for Semi-Supervised Learning (GCNII), ICML 2020  
+13. Graph Field Network (GFN), NeurIPS 2021
 
 
 # Oversmoothing 
