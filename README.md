@@ -13,13 +13,13 @@
 ## Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis)
 1. Spectral Convolutional Neural Network (Spectral CNN), ICLR 2014  
 2. Chebyshev Graph Convolutional Network (ChebNet), NeurIPS 2016  
-3. Graph Convolutional Network (GCN), ICLR 2017  
-4. CayleyNet (CayleyNet), ICML 2018  
-5. GraphWave / DiffusionWavelet (GraphWave), KDD 2018  
-6. Lanczos Network (LanczosNet), ICLR 2019  
-7. Spectral Attention Network (SAN), NeurIPS 2020  
-8. Fourier Graph Neural Network (Fourier GNN), ICLR 2021  
-9. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021
+3. Graph Convolutional Network (GCN), ICLR 2017  **(Personal intitution: have a shared weights CNN visulasation in mind to have a better understanding)**
+5. CayleyNet (CayleyNet), ICML 2018  
+6. GraphWave / DiffusionWavelet (GraphWave), KDD 2018  
+7. Lanczos Network (LanczosNet), ICLR 2019  
+8. Spectral Attention Network (SAN), NeurIPS 2020  
+9. Fourier Graph Neural Network (Fourier GNN), ICLR 2021  
+10. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021
 
 
 ## Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages)
