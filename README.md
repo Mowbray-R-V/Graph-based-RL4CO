@@ -44,6 +44,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 # Oversmoothing 
 1. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning, AAAI 2018
 2. Evaluating Deep Graph Neural Networks, 2017
+3. NAFS: ASimple yet Tough-to-beat Baseline for Graph Representation Learning, icml 2022  
 
 
 
