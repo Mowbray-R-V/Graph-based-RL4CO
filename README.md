@@ -95,6 +95,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 14. A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges  
 15. Do Transformers Really Perform Bad for Graph Representation?  
 
+<img width="1046" height="381" alt="image" src="https://github.com/user-attachments/assets/371b1811-d51e-4ed2-bc83-43fe2ebf32c0" />
 
 
 
