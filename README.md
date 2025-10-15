@@ -100,6 +100,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 
 # GNN generalisation
 1. How Powerful are Graph Neural Networks?, ICLR 2019 (Connects GNN expressivity and generalization to the Weisfeiler-Lehman test. Shows limits of message passing.)
+2. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025
 
 
 # Different graph propagation techniques
