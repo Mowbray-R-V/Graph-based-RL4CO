@@ -4,6 +4,7 @@
 3. [Math behind GNN ](https://rish-16.github.io/posts/gnn-math/)
 4. [GCN video](https://www.youtube.com/watch?v=5SintlY9hbY&t=743s)
 5. [Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures](https://arxiv.org/pdf/2407.09468)
+6. [Mathematical Foundations of Geometric Deep Learning](https://arxiv.org/pdf/2508.02723#page=65.06)
 
 # Key papers
 1. Theory of Graph Neural Networks: Representation and Learning
