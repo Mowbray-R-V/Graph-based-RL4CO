@@ -116,7 +116,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 # HPC basic codes for this project
 
 
-# Lbraries
+# Libraries
 1. PSGraph 
 2. [AliGraph](https://github.com/alibaba/graph-learn)
 3. [PGL: https](//github.com/PaddlePaddle/PGL)
