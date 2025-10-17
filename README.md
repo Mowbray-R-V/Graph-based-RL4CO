@@ -9,8 +9,12 @@
 # Key papers
 1. Theory of Graph Neural Networks: Representation and Learning
 2. A Comprehensive Survey on Graph Neural Networks, 2019
-3. How powerfule are graph neural nwtwork ? . ICLR 2019
-4. 
+
+# Expressiveness
+1. How powerful are graph neural network ?  ICLR 2019
+2. Graph Positional and Structural Encoder, ICML 2024
+3. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
+
 
 # Graph neural netwrok
 ## Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis)
