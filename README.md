@@ -105,7 +105,13 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 2. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025
 
 
-# Different graph propagation techniques
+# Different structural information
+## Multi-hop information
+
+## Sturtural role mebddings
+
+
+graph propagation techniques
 1. 
 
 
