@@ -15,6 +15,7 @@
 2. go neural: higher-order graph neural networks, AAAI 2019
 3. Graph Positional and Structural Encoder, ICML 2024
 4. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
+5. Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning, NIPS 2020
 
 
 # Graph neural netwrok
@@ -115,19 +116,11 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 ## Structural role  (Capture role/functional similarity independent of position---nodes with similar srtructural role have similar embeddings. Struc2Vec, RoleX, GraphWave, motif/graphlet features, anonymous walks) 
 1. Roles, positions, and social networks — Stephen P. Borgatti, Martin G. Everett, Social Networks, 1992 (foundational theory of structural roles and equivalence in networks)
 2. The role concept in social network analysis — Lorrain & White, Journal of Mathematical Sociology, 1971 (classical notion of structural equivalence)
-3. The role of eigenvectors in role analysis — White & Reitz, Social Networks, 1983 (early algebraic formulation for structural equivalence)
-4. RolX: Structural Role Extraction & Mining in Large Graphs — K. Henderson, B. Gallagher, T. Eliassi-Rad et al., KDD, 2012 (RoleX: automatic role discovery using feature-based NMF decomposition)
-5. Revisiting Role Discovery in Networks — K. Henderson, B. Gallagher et al., NIPS Workshop, 2013 (extended RoleX with probabilistic role assignment)
-6. struc2vec: Learning Node Representations from Structural Identity — Leonardo F.R. Ribeiro, Pedro Saverese, Daniel R. Figueiredo, KDD, 2017 (hierarchical structural similarity graph + random walks)
-7. GraphWave: Learning Structural Node Embeddings via Heat Wavelets — C. Donnat, M. Zitnik, D. Hallac, J. Leskovec, KDD, 2018 (spectral approach using heat diffusion kernel)
-8. Anonymous Walk Embeddings — Sergey Ivanov, Evgeny Burnaev, ICML, 2018 (identity-agnostic embeddings using anonymous random walks)
-9. Role2Vec: Role-based Network Embedding and Representation Learning — N. Ahmed, J. Neville, R. Rossi et al., ICDM, 2019 (combines node features and structural roles via Skip-gram)
-10. Graph Structural-role Network Embedding — R. Rossi, N. Ahmed, TKDD (ACM Transactions), 2020 (generalized framework for feature-driven role embeddings)
-11. Deep Role Network Embedding (DRNE) — W. Luo, C. Li, Z. Guo, WWW (Companion), 2019 (deep autoencoder for capturing role similarity)
-12. Graph Structural Embedding via Learning Structural Similarity — Liu et al., Information Sciences, 2021 (role discovery using structural distance learning)
-13. Role-aware Graph Neural Networks for Node Classification — Chen et al., AAAI, 2022 (incorporates role embeddings into GNN message passing)
-14. Graph Structural Role Discovery with Dual-View Contrastive Learning — Sun et al., NeurIPS Workshop, 2023 (contrastive learning–based structural role embeddings)
-15. DiffRole: Differentiable Role Embedding for Graphs — Zhang et al., ICLR, 2024 (differentiable structural role discovery with end-to-end GNN training)
+3. RolX: Structural Role Extraction & Mining in Large Graphs — K. Henderson, B. Gallagher, T. Eliassi-Rad et al., KDD, 2012 (RoleX: automatic role discovery using feature-based NMF decomposition)
+4. Revisiting Role Discovery in Networks — K. Henderson, B. Gallagher et al., NIPS Workshop, 2013 (extended RoleX with probabilistic role assignment)
+5. struc2vec: Learning Node Representations from Structural Identity — Leonardo F.R. Ribeiro, Pedro Saverese, Daniel R. Figueiredo, KDD, 2017 (hierarchical structural similarity graph + random walks)
+6. GraphWave: Learning Structural Node Embeddings via Heat Wavelets — C. Donnat, M. Zitnik, D. Hallac, J. Leskovec, KDD, 2018 (spectral approach using heat diffusion kernel)
+   
 
 ## Positional  (Encode node location / coordinates in graph (global geometry). Laplacian Eigenmaps, Spectral Embeddings, Distance-to-anchors, LapPE / RWSE for transformers)
 ## Attribute-aware (Combine node features with structure (often inductive). GCN, GAT, GraphSAGE, HetGNN; autoencoders that reconstruct features+adj )
