@@ -12,8 +12,9 @@
 
 # Expressiveness
 1. How powerful are graph neural network ?  ICLR 2019
-2. Graph Positional and Structural Encoder, ICML 2024
-3. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
+2. go neural: higher-order graph neural networks, AAAI 2019
+3. Graph Positional and Structural Encoder, ICML 2024
+4. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
 
 
 # Graph neural netwrok
