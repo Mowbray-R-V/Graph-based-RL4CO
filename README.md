@@ -105,14 +105,15 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 2. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025
 
 
-# Different structural information
-## Multi-hop information
+# Node embedding 
+## Proximity based (local neighbours have similar embeddings) 
+## Structural role based (nodes with similar srtructural role have similar embeddings) 
+## Positional-aware node embeddings (provides information of the nodes postion in global context)
+## Contrastive based node embeddings
+## Attribute / Feature-aware Node embeddings
+# Diffusion / Global Context-based Node embeddings
 
-## Sturtural role mebddings
 
-
-graph propagation techniques
-1. 
 
 
 
