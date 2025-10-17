@@ -5,6 +5,8 @@
 4. [GCN video](https://www.youtube.com/watch?v=5SintlY9hbY&t=743s)
 5. [Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures](https://arxiv.org/pdf/2407.09468)
 6. [Mathematical Foundations of Geometric Deep Learning](https://arxiv.org/pdf/2508.02723#page=65.06)
+7. [Two-Dimensional Weisfeiler-Lehman Graph Neural Networks for Link Prediction](https://arxiv.org/pdf/1709.05584)
+8. [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261)
 
 # Key papers
 1. Theory of Graph Neural Networks: Representation and Learning
@@ -16,6 +18,7 @@
 3. Graph Positional and Structural Encoder, ICML 2024
 4. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
 5. Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning, NIPS 2020
+6. 
 
 
 # Graph neural netwrok
