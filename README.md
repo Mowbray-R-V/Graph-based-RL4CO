@@ -111,14 +111,12 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 
 
 # Node embedding 
-## Proximity based (local neighbours have similar embeddings) 
-## Structural role based (nodes with similar srtructural role have similar embeddings) 
-## Positional-aware node embeddings (provides information of the nodes postion in global context)
-## Contrastive based node embeddings
-## Attribute / Feature-aware Node embeddings
-# Diffusion / Global Context-based Node embeddings
-
-
+## Proximity  (Capture neighborhood co-occurrence / local similarity. DeepWalk, Node2Vec, matrix-factorization (HOPE, GraRep, LINE), adjacency-factorization, graph autoencoders (GAE/VGAE)) 
+## Structural role  (Capture role/functional similarity independent of position---nodes with similar srtructural role have similar embeddings. Struc2Vec, RoleX, GraphWave, motif/graphlet features, anonymous walks) 
+## Positional  (Encode node location / coordinates in graph (global geometry). Laplacian Eigenmaps, Spectral Embeddings, Distance-to-anchors, LapPE / RWSE for transformers)
+## Attribute-aware (Combine node features with structure (often inductive). GCN, GAT, GraphSAGE, HetGNN; autoencoders that reconstruct features+adj )
+## Diffusion / Global (Capture long-range influence / diffusion dynamics. PPR / Personalized PageRank embeddings, Heat kernel, APPNP, PPRGo, diffusion maps)
+## Contrastive / InfoMax (Learn by pulling positive pairs together and pushing negatives apart (or bootstrapping). DGI, GraphCL, GRACE, MVGRL, InfoNCE losses, BGRL (no-negatives)
 
 
 
