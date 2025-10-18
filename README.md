@@ -19,7 +19,7 @@
 4. Graph Positional and Structural Encoder, ICML 2024
 5. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
 6. Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning, NIPS 2020
-7. 
+7. Demystifying Higher-Order Graph Neural Networks
 
 
 # Graph neural netwrok
@@ -117,7 +117,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 
 # Node embedding 
 ## Proximity  (Capture neighborhood co-occurrence / local similarity. DeepWalk, Node2Vec, matrix-factorization (HOPE, GraRep, LINE), adjacency-factorization, graph autoencoders (GAE/VGAE)) 
-## Structural role  (Capture role/functional similarity independent of position---nodes with similar srtructural role have similar embeddings. Struc2Vec, RoleX, GraphWave, motif/graphlet features, anonymous walks) 
+## Structural role  (Capture role/functional similarity independent of position--Structural role discovery → identify nodes that play equivalent roles under isomorphism (automorphism groups).) 
 1. Roles, positions, and social networks — Stephen P. Borgatti, Martin G. Everett, Social Networks, 1992 (foundational theory of structural roles and equivalence in networks)
 2. The role concept in social network analysis — Lorrain & White, Journal of Mathematical Sociology, 1971 (classical notion of structural equivalence)
 3. RolX: Structural Role Extraction & Mining in Large Graphs — K. Henderson, B. Gallagher, T. Eliassi-Rad et al., KDD, 2012 (RoleX: automatic role discovery using feature-based NMF decomposition)
