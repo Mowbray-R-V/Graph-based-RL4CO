@@ -14,7 +14,7 @@
 
 # Expressiveness
 1.B. Weisfeiler and A. Leman, “A reduction of a graph to a canonical form and an algebra arising during this reduction,” Nauchno-Technicheskaya Informatsia, 1968.
-2. How powerful are graph neural network ?  ICLR 2019
+2. How powerful are graph neural network?, ICLR 2019 (many GNNs (Message Passing Neural Networks) are isomorphism-invariant; they cannot distinguish two isomorphic graphs)
 3. go neural: higher-order graph neural networks, AAAI 2019
 4. Graph Positional and Structural Encoder, ICML 2024
 5. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
