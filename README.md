@@ -13,12 +13,13 @@
 2. A Comprehensive Survey on Graph Neural Networks, 2019
 
 # Expressiveness
-1. How powerful are graph neural network ?  ICLR 2019
-2. go neural: higher-order graph neural networks, AAAI 2019
-3. Graph Positional and Structural Encoder, ICML 2024
-4. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
-5. Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning, NIPS 2020
-6. 
+1.B. Weisfeiler and A. Leman, “A reduction of a graph to a canonical form and an algebra arising during this reduction,” Nauchno-Technicheskaya Informatsia, 1968.
+2. How powerful are graph neural network ?  ICLR 2019
+3. go neural: higher-order graph neural networks, AAAI 2019
+4. Graph Positional and Structural Encoder, ICML 2024
+5. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
+6. Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning, NIPS 2020
+7. 
 
 
 # Graph neural netwrok
