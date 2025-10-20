@@ -1,4 +1,4 @@
-# Tutorial 
+# Tutorial (under construction)
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 2. [Geometric deep learning book](https://geometricdeeplearning.com/book/)
 3. [Math behind GNN ](https://rish-16.github.io/posts/gnn-math/)
