@@ -7,6 +7,7 @@
 6. [Mathematical Foundations of Geometric Deep Learning](https://arxiv.org/pdf/2508.02723#page=65.06)
 7. [Two-Dimensional Weisfeiler-Lehman Graph Neural Networks for Link Prediction](https://arxiv.org/pdf/1709.05584)
 8. [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261)
+9. [ntroduction to Graph Neural Networks: A Starting Point for Machine Learning Engineers](https://arxiv.org/pdf/2412.19419)
 
 # Key papers
 1. Theory of Graph Neural Networks: Representation and Learning
