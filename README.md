@@ -26,6 +26,7 @@
 5. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022
 6. Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning, NIPS 2020
 7. Demystifying Higher-Order Graph Neural Networks
+8. A Survey on The Expressive Power of Graph Neural Networks
 
 
 # Graph neural netwrok
