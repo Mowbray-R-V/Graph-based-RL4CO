@@ -9,6 +9,11 @@
 8. [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261)
 9. [ntroduction to Graph Neural Networks: A Starting Point for Machine Learning Engineers](https://arxiv.org/pdf/2412.19419)
 
+# Types of learning
+1. Supervised: Explicit labels for nodes or graphs (e.g., node classification); common loss: Cross-entropy between predicted and true labels
+2. Self-supervised/Un-Supervised: No labels — model builds its own pseudo-task (e.g., contrastive learning, context prediction); common loss: InfoNCE, MI maximization
+3. Semi-supervised: Labeled + unlabeled data combined; comon loss: Labeled loss + self-supervised regularizer
+
 # Key papers
 1. Theory of Graph Neural Networks: Representation and Learning
 2. A Comprehensive Survey on Graph Neural Networks, 2019
