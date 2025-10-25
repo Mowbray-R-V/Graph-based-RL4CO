@@ -16,6 +16,7 @@
 15. [Graph Representation Learning](https://github.com/dsgiitr/graph_nets) **(need to check this)**
 16. [GNN blogs](https://tkipf.github.io/graph-convolutional-networks/?ref=inference.vc) **(need to check this)**
 17. [GNN blogs](https://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/****)  **(need to check this)**
+18. [Awesome-Large-Scale-Graph-Learning](https://github.com/YuanchenBei/Awesome-Large-Scale-Graph-Learning) **(key papers)**
 
 # Types of learning
 1. Supervised: Explicit labels for nodes or graphs (e.g., node classification); common loss: Cross-entropy between predicted and true labels
