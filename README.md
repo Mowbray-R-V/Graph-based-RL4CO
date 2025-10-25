@@ -10,6 +10,8 @@
 9. [Introduction to Graph Neural Networks: A Starting Point for Machine Learning Engineers](https://arxiv.org/pdf/2412.19419)
 10. [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 11. [GCN code](https://github.com/tkipf/gcn) **(need to redo from scratch)**
+12. [GAT code]() **(need to redo from scratch)**
+13. [Graph Representation Learning](https://github.com/dsgiitr/graph_nets) **(need to check this)**
 
 # Types of learning
 1. Supervised: Explicit labels for nodes or graphs (e.g., node classification); common loss: Cross-entropy between predicted and true labels
