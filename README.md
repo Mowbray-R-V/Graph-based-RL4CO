@@ -8,7 +8,7 @@
 7. [Two-Dimensional Weisfeiler-Lehman Graph Neural Networks for Link Prediction](https://arxiv.org/pdf/1709.05584)
 8. [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261)
 9. [Introduction to Graph Neural Networks: A Starting Point for Machine Learning Engineers](https://arxiv.org/pdf/2412.19419)
-10. [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
+10. [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)  **(key papers)**
 11. [GCN code](https://github.com/tkipf/gcn) **(need to redo from scratch)**
 12. [GAT code]() **(need to redo from scratch)**
 13. [Simplifying Graph Convolutional Networks](https://github.com/Tiiiger/SGC) **(need to redo from scratch)**
