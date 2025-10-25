@@ -12,9 +12,10 @@
 11. [GCN code](https://github.com/tkipf/gcn) **(need to redo from scratch)**
 12. [GAT code]() **(need to redo from scratch)**
 13. [Simplifying Graph Convolutional Networks](https://github.com/Tiiiger/SGC) **(need to redo from scratch)**
-14. [Graph Representation Learning](https://github.com/dsgiitr/graph_nets) **(need to check this)**
-15. [GNN blogs](https://tkipf.github.io/graph-convolutional-networks/?ref=inference.vc) **(need to check this)**
-16. [GNN blogs](https://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/****)  **(need to check this)**
+14. [Graphsage]() **(need to redo from scratch)**
+15. [Graph Representation Learning](https://github.com/dsgiitr/graph_nets) **(need to check this)**
+16. [GNN blogs](https://tkipf.github.io/graph-convolutional-networks/?ref=inference.vc) **(need to check this)**
+17. [GNN blogs](https://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/****)  **(need to check this)**
 
 # Types of learning
 1. Supervised: Explicit labels for nodes or graphs (e.g., node classification); common loss: Cross-entropy between predicted and true labels
