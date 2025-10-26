@@ -148,6 +148,15 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 ## Contrastive / InfoMax (Learn by pulling positive pairs together and pushing negatives apart (or bootstrapping). DGI, GraphCL, GRACE, MVGRL, InfoNCE losses, BGRL (no-negatives)
 
 
+# Graph constrastive learning
+## Survey papers
+1. An Empirical Study of Graph Contrastive Learning, NIPS 2021      
+2. Towards Graph Contrastive Learning: A Survey and Beyond, ACM 2024
+3. Self-Supervised Learning on Graphs: Contrastive, Generative, or Predictive, IEEE transaction 2023
+4. Graph Self-Supervised Learning: A Survey, IEEE transaction 2023
+5. Self-supervised Learning on Graphs: Deep Insights and New Directions  
+   
+
 
 #  GNN Simplification (Decouples graph propagation from feature transformation)
 1. 
