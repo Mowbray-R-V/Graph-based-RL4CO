@@ -39,7 +39,7 @@
 
 
 # Graph neural netwrok
-## Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis)
+## Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis. Estimkation of eigen-decomposition for large graph intractable, )
 1. Spectral Convolutional Neural Network (Spectral CNN), ICLR 2014  
 2. Chebyshev Graph Convolutional Network (ChebNet), NeurIPS 2016  
 3. Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017  **(Personal intitution: have a shared weights CNN visualisation in mind to have a better understanding)** GCNs already perform an aggregation that enforces neighbor similarity as an inductive bias.
