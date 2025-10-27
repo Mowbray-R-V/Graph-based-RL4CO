@@ -158,7 +158,9 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 2. Towards Graph Contrastive Learning: A Survey and Beyond, ACM 2024
 3. Self-Supervised Learning on Graphs: Contrastive, Generative, or Predictive, IEEE transaction 2023
 4. Graph Self-Supervised Learning: A Survey, IEEE transaction 2023
-5. Self-supervised Learning on Graphs: Deep Insights and New Directions  
+5. Self-supervised Learning on Graphs: Deep Insights and New Directions
+## Papers
+1.  Multi-grained contrastive-learning driven MLPs for node classification, Nature 2025 **(lucid explanation of GNN and CL)**
    
 
 
