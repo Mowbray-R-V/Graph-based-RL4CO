@@ -18,6 +18,9 @@
 17. [GNN blogs](https://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/****)  **(need to check this)**
 18. [Awesome-Large-Scale-Graph-Learning](https://github.com/YuanchenBei/Awesome-Large-Scale-Graph-Learning) **(key papers)**
 
+# Unsorted
+1.  Local and Global Structure Preservation for Robust Unsupervised Spectral Feature Selection,  2018
+
 # Types of learning
 1. Supervised: Explicit labels for nodes or graphs (e.g., node classification); common loss: Cross-entropy between predicted and true labels
 2. Self-supervised/Un-Supervised: No labels — model builds its own pseudo-task (e.g., contrastive learning, context prediction); common loss: InfoNCE, MI maximization
