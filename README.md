@@ -17,8 +17,9 @@
 16. [GNN blogs](https://tkipf.github.io/graph-convolutional-networks/?ref=inference.vc) **(need to check this)**
 17. [GNN blogs](https://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/****)  **(need to check this)**
 18. [Awesome-Large-Scale-Graph-Learning](https://github.com/YuanchenBei/Awesome-Large-Scale-Graph-Learning) **(key papers)**
-19. [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210) **(Great start for contrastive learning )**
-20. [Awesome-LLM4Graph-Papers](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
+19. [Demystifying Graph Convolutional Neural Network (GCN)](https://www.youtube.com/watch?v=93FiLSxKr_U&t=6s)
+20. [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210) **(Great start for contrastive learning )**
+21. [Awesome-LLM4Graph-Papers](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
 
 # Unsorted
 1.  Local and Global Structure Preservation for Robust Unsupervised Spectral Feature Selection,  2018
