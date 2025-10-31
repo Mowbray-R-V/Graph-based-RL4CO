@@ -1,4 +1,4 @@
-# Tutorial (Work in progress)
+# ⭐ Tutorial (Work in progress)
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 2. [Geometric deep learning book](https://geometricdeeplearning.com/book/)
 3. [Math behind GNN ](https://rish-16.github.io/posts/gnn-math/)
@@ -21,19 +21,17 @@
 20. [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210) **(Great start for contrastive learning )**
 21. [Awesome-LLM4Graph-Papers](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
 
-# Unsorted
-1.  Local and Global Structure Preservation for Robust Unsupervised Spectral Feature Selection,  2018
 
-# Types of learning
+# ⭐ Types of learning
 1. Supervised: Explicit labels for nodes or graphs (e.g., node classification); common loss: Cross-entropy between predicted and true labels
 2. Self-supervised/Un-Supervised: No labels — model builds its own pseudo-task (e.g., contrastive learning, context prediction); common loss: InfoNCE, MI maximization
 3. Semi-supervised: Labeled + unlabeled data combined; comon loss: Labeled loss + self-supervised regularizer
 
-# Key papers
+# ⭐ Key papers
 1. Theory of Graph Neural Networks: Representation and Learning
 2. A Comprehensive Survey on Graph Neural Networks, 2019
 
-# Expressiveness
+# ⭐ Expressiveness
 1.B. Weisfeiler and A. Leman, “A reduction of a graph to a canonical form and an algebra arising during this reduction,” Nauchno-Technicheskaya Informatsia, 1968.      
 2. How powerful are graph neural network?, ICLR 2019 **(many GNNs (Message Passing Neural Networks) are isomorphism-invariant; they cannot distinguish two isomorphic graphs and are expressive power is bounded by 1-WL)**      
 3. go neural: higher-order graph neural networks, AAAI 2019      
@@ -45,7 +43,7 @@
 9. How Powerful are K-hop Message Passing Graph Neural Networks, NIPS 2022 **( expressive power is bounded by 3-WL)**
 
 
-# Graph neural netwrok
+# ⭐ Graph neural netwrok
 ## Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis. Estimkation of eigen-decomposition for large graph intractable, )
 1. Spectral Convolutional Neural Network (Spectral CNN), ICLR 2014  
 2. Chebyshev Graph Convolutional Network (ChebNet), NeurIPS 2016  
@@ -76,7 +74,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 13. Graph Field Network (GFN), NeurIPS 2021
 
 
-# Oversmoothing 
+# ⭐ Oversmoothing 
 1. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning, AAAI 2018
 2. Evaluating Deep Graph Neural Networks, 2017
 3. NAFS: ASimple yet Tough-to-beat Baseline for Graph Representation Learning, icml 2022
@@ -84,11 +82,11 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 
 
 
-# Graph embedding (Converts graphs-high dimensional,non-euclidean space into low-dimensional continuous vector spaces)
+# ⭐ Graph embedding (Converts graphs-high dimensional,non-euclidean space into low-dimensional continuous vector spaces)
 1. Understanding Graph Embedding Methods and Their Applications
 2. Toward Understanding and Evaluating Structural Node Embeddings, ACM 2021
 
-# Graph based RL4CO
+# ⭐ Graph based RL4CO
 1. GCOMB: Learning budget-constrained combinatorial algorithms over billion-sized graphs — NeurIPS 2020  
 2. LeNSE: Learning to navigate subgraph embeddings for large-scale combinatorial optimisation — ICML 2022  
 3. PIANO: Influence maximization meets deep reinforcement learning — IEEE Transactions on Computational Social Systems, 2023  
@@ -113,7 +111,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 22. Finding key players in complex networks through deep reinforcement learning  
 23. Multiple Agents Reinforcement Learning Based Influence Maximization in Social Network Services
 
-# GNN scalability 
+# ⭐ GNN scalability 
 
 1. GNN acceleration for large scale graphs — Beyond Message Passing: Neural Graph Pattern Machine, ICML 2025  
 2. Survey on graph neural network acceleration: An algorithmic perspective —  2022  
@@ -138,7 +136,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 2. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025
 
 
-# Node embedding 
+# ⭐ Node embedding 
 ## Proximity  (Capture neighborhood co-occurrence / local similarity. DeepWalk, Node2Vec, matrix-factorization (HOPE, GraRep, LINE), adjacency-factorization, graph autoencoders (GAE/VGAE)) 
 ## Structural role  (Capture role/functional similarity independent of position--Structural role discovery → identify nodes that play equivalent roles under isomorphism (automorphism groups).) 
 1. Roles, positions, and social networks — Stephen P. Borgatti, Martin G. Everett, Social Networks, 1992 (foundational theory of structural roles and equivalence in networks)
@@ -155,7 +153,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 ## Contrastive / InfoMax (Learn by pulling positive pairs together and pushing negatives apart (or bootstrapping). DGI, GraphCL, GRACE, MVGRL, InfoNCE losses, BGRL (no-negatives)
 
 
-# Graph constrastive learning
+# ⭐ Graph constrastive learning
 ## Survey papers
 1. An Empirical Study of Graph Contrastive Learning, NIPS 2021      
 2. Towards Graph Contrastive Learning: A Survey and Beyond, ACM 2024
@@ -166,16 +164,12 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 1.  Multi-grained contrastive-learning driven MLPs for node classification, Nature 2025 **(lucid explanation of GNN and CL)**
    
 
-
-#  GNN Simplification (Decouples graph propagation from feature transformation)
-1. 
-
+# Unsorted
+1.  Local and Global Structure Preservation for Robust Unsupervised Spectral Feature Selection,  2018
 
 
-# HPC basic codes for this project
 
-
-# Libraries
+# ⭐  Libraries
 1. PSGraph 
 2. [AliGraph](https://github.com/alibaba/graph-learn)
 3. [PGL: https](//github.com/PaddlePaddle/PGL)
