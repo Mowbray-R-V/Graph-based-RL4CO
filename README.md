@@ -34,7 +34,7 @@
 8. **SimSiam** |Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA)
 9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**    
 
-# ⭐ Key vector quantisation papers papers 
+# ⭐ Key vector quantisation papers  
 1. Vector quantizers with direct sum codebooks, IEEE Trans. on information theory, vol. 39, 1993
 2. Embedded wavelet zerotree coding with direct sum quantization structures, in Proceedings DCC’95 Data Compression Conference,  1995.
 3. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations **(vector quantization for clustering and the codebook vector is taken into computing contrastive loss. )**
