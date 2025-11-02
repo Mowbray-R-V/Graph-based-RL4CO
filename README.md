@@ -24,15 +24,15 @@
 23. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 
 # Key Contrastive learning papers
-1. | 2018 | **CPC – Contrastive Predictive Coding** | https://arxiv.org/abs/1807.03748 | Learned representations by **predicting future latent states** using **InfoNCE** |
-| 2019 | **Instance Discrimination** (Wu et al.) | https://arxiv.org/abs/1805.01978 | Viewed each image instance as a separate class + **memory bank** for negatives |
-| 2020 | **MoCo v1 – Momentum Contrast** | https://arxiv.org/abs/1911.05722 | **Momentum encoder** + **queue** to maintain consistent negative samples |
-| 2020 | **SimCLR v1** | https://arxiv.org/abs/2002.05709 | Uses **strong augmentations** + **large batch** contrastive training |
-| 2020 | **MoCo v2** | https://arxiv.org/abs/2003.04297 | Adds **MLP projection head** + SimCLR augmentations to MoCo for stronger accuracy |
-| 2020 | **SimCLR v2** | https://arxiv.org/abs/2006.10029 | Shows deeper nets + longer training significantly improves CL |
-| 2020 | **BYOL – Bootstrap Your Own Latent** | https://arxiv.org/abs/2006.07733 | **No negatives**; uses **momentum teacher** & **stop-gradient** to avoid collapse |
-| 2021 | **SimSiam** | https://arxiv.org/abs/2011.10566 | Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA) |
-| 2021 | **MoCo v3** | https://arxiv.org/abs/2104.02057 | Extends MoCo to **Vision Transformers (ViT)** |
+1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
+2. **Instance Discrimination** (Wu et al.) | Viewed each image instance as a separate class + **memory bank** for negatives
+3. **MoCo v1 – Momentum Contrast** | **Momentum encoder** + **queue** to maintain consistent negative samples
+4. **SimCLR v1** | Uses **strong augmentations** + **large batch** contrastive training
+5. **MoCo v2** | Adds **MLP projection head** + SimCLR augmentations to MoCo for stronger accuracy
+6. **SimCLR v2** | Shows deeper nets + longer training significantly improves CL
+7. **BYOL – Bootstrap Your Own Latent** |**No negatives**; uses **momentum teacher** & **stop-gradient** to avoid collapse
+8. **SimSiam** |Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA)
+9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**    
 
 
 
