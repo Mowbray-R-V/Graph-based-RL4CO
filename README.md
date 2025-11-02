@@ -23,6 +23,19 @@
 22. [CS224W: Machine Learning with Graphs Stanford / Fall 2025](https://web.stanford.edu/class/cs224w/)
 23. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 
+# Key Contrastive learning papers
+1. | 2018 | **CPC – Contrastive Predictive Coding** | https://arxiv.org/abs/1807.03748 | Learned representations by **predicting future latent states** using **InfoNCE** |
+| 2019 | **Instance Discrimination** (Wu et al.) | https://arxiv.org/abs/1805.01978 | Viewed each image instance as a separate class + **memory bank** for negatives |
+| 2020 | **MoCo v1 – Momentum Contrast** | https://arxiv.org/abs/1911.05722 | **Momentum encoder** + **queue** to maintain consistent negative samples |
+| 2020 | **SimCLR v1** | https://arxiv.org/abs/2002.05709 | Uses **strong augmentations** + **large batch** contrastive training |
+| 2020 | **MoCo v2** | https://arxiv.org/abs/2003.04297 | Adds **MLP projection head** + SimCLR augmentations to MoCo for stronger accuracy |
+| 2020 | **SimCLR v2** | https://arxiv.org/abs/2006.10029 | Shows deeper nets + longer training significantly improves CL |
+| 2020 | **BYOL – Bootstrap Your Own Latent** | https://arxiv.org/abs/2006.07733 | **No negatives**; uses **momentum teacher** & **stop-gradient** to avoid collapse |
+| 2021 | **SimSiam** | https://arxiv.org/abs/2011.10566 | Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA) |
+| 2021 | **MoCo v3** | https://arxiv.org/abs/2104.02057 | Extends MoCo to **Vision Transformers (ViT)** |
+
+
+
 
 # ⭐ Types of learning
 1. Supervised: Explicit labels for nodes or graphs (e.g., node classification); common loss: Cross-entropy between predicted and true labels
