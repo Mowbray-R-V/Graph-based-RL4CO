@@ -23,7 +23,7 @@
 22. [CS224W: Machine Learning with Graphs Stanford / Fall 2025](https://web.stanford.edu/class/cs224w/)
 23. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 
-# Key Contrastive learning papers
+# ⭐ Key Contrastive learning papers
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
 2. **Instance Discrimination** (Wu et al.) | Viewed each image instance as a separate class + **memory bank** for negatives
 3. **MoCo v1 – Momentum Contrast** | **Momentum encoder** + **queue** to maintain consistent negative samples
