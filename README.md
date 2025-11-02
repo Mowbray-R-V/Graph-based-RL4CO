@@ -34,7 +34,7 @@
 8. **SimSiam** |Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA)
 9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**    
 
-# ⭐ Key Quantisation papers learning papers
+# ⭐ Key Quantisation papers papers
 1. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 2. predicting multi-codebook vector quantization indexes for knowledge distillation, NIPS 2020       
 
