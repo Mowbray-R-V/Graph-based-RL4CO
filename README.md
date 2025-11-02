@@ -21,7 +21,8 @@
 20. [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210) **(Great start for contrastive learning )**
 21. [Awesome-LLM4Graph-Papers](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
 22. [CS224W: Machine Learning with Graphs Stanford / Fall 2025](https://web.stanford.edu/class/cs224w/)
-23. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
+23. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584)
+24. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 
 # ⭐ Key Contrastive learning papers
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
