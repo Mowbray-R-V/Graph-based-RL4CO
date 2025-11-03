@@ -39,7 +39,13 @@
 1. Vector quantizers with direct sum codebooks, IEEE Trans. on information theory, vol. 39, 1993
 2. Embedded wavelet zerotree coding with direct sum quantization structures, in Proceedings DCC’95 Data Compression Conference,  1995.
 3. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations **(vector quantization for clustering and the codebook vector is taken into computing contrastive loss. )**
-4. predicting multi-codebook vector quantization indexes for knowledge distillation, NIPS 2020       
+4. predicting multi-codebook vector quantization indexes for knowledge distillation, NIPS 2020
+5. 
+
+
+Graph SSL methods
+<img width="1325" height="784" alt="image" src="https://github.com/user-attachments/assets/bda44962-cca4-4393-bbf7-b1abf85e3f0d" />
+
 
 
 # ⭐ Types of learning
