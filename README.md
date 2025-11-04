@@ -24,6 +24,14 @@
 23. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584)
 24. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 
+
+# ⭐ Self supervised learning papers
+##  Contrastive learning
+1. 
+
+
+
+
 # ⭐ Key Contrastive learning papers
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
 2. **Instance Discrimination** (Wu et al.) | Viewed each image instance as a separate class + **memory bank** for negatives
