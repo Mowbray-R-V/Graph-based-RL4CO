@@ -23,7 +23,7 @@
 22. [CS224W: Machine Learning with Graphs Stanford / Fall 2025](https://web.stanford.edu/class/cs224w/)
 23. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584)
 24. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
-25. Learning from graphs beyond message passing neural networks, ICLR(Tiny) 2024 **(Nice bird's-eye view of GraphML algorithms)**
+25. Learning from graphs beyond message passing neural networks, ICLR(Tiny) 2024 **(Nice bird's-eye view of GraphML algorithms into three clases : Using graphs during (a) training (b) preprocessing (c)test-time inferencing)**
 
 # ⭐ Large-scale graph neural networks
 1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025
