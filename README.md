@@ -24,6 +24,9 @@
 23. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584)
 24. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 
+# ⭐ Large-scale graph neural networks
+1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025
+2. 
 
 # ⭐ Self supervised learning papers
 ##  Contrastive learning
@@ -49,6 +52,11 @@
 3. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations **(vector quantization for clustering and the codebook vector is taken into computing contrastive loss. )**
 4. predicting multi-codebook vector quantization indexes for knowledge distillation, NIPS 2020
 5. Neural Discrete Representation Learning, NIPS 2017 **(VQ-VAE)**      
+
+# ⭐ GNN to MLP knowledge distaaltion papers
+1. Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction, 2025
+2. 
+
 
 
 Graph SSL methods
