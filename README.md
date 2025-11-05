@@ -54,6 +54,7 @@
 4. predicting multi-codebook vector quantization indexes for knowledge distillation, NIPS 2020
 5. Neural Discrete Representation Learning, NIPS 2017 **(VQ-VAE)**
 6. Generating Diverse High-Fidelity Images with VQ-VAE-2, NIPS 2017 **(adds  multi-scale(global - local details channeled separately) hierarchical discrete codebooks)**
+7. Autoregressive image generation using residual quantization, IEEE/CVF 2022      
 
 # ⭐ GNN to MLP knowledge distaaltion papers
 1. Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction, 2025
