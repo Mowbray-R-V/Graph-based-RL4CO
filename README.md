@@ -52,7 +52,8 @@
 2. Embedded wavelet zerotree coding with direct sum quantization structures, in Proceedings DCC’95 Data Compression Conference,  1995.
 3. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations **(vector quantization for clustering and the codebook vector is taken into computing contrastive loss. )**
 4. predicting multi-codebook vector quantization indexes for knowledge distillation, NIPS 2020
-5. Neural Discrete Representation Learning, NIPS 2017 **(VQ-VAE)**      
+5. Neural Discrete Representation Learning, NIPS 2017 **(VQ-VAE)**
+6. Generating Diverse High-Fidelity Images with VQ-VAE-2, NIPS 2017
 
 # ⭐ GNN to MLP knowledge distaaltion papers
 1. Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction, 2025
