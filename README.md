@@ -30,13 +30,7 @@
 2. 
 
 # ⭐ Self supervised learning papers
-##  Contrastive learning
-1. 
-
-
-
-
-# ⭐ Key Contrastive learning papers
+## Key contrastive learning
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
 2. **Instance Discrimination** (Wu et al.) | Viewed each image instance as a separate class + **memory bank** for negatives
 3. **MoCo v1 – Momentum Contrast** | **Momentum encoder** + **queue** to maintain consistent negative samples
