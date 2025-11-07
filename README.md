@@ -175,7 +175,7 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 
 <img width="1046" height="381" alt="image" src="https://github.com/user-attachments/assets/371b1811-d51e-4ed2-bc83-43fe2ebf32c0" />
 
-# GNN generalisation
+# GNN generalisation (across different structures, label space and node feature space)
 1. How Powerful are Graph Neural Networks?, ICLR 2019 (Connects GNN expressivity and generalization to the Weisfeiler-Lehman test. Shows limits of message passing.)
 2. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025
 
