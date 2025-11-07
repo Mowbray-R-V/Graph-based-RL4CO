@@ -29,8 +29,8 @@
 1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025
 2. 
 
-# ⭐ Self supervised learning papers
-## Key contrastive learning
+# ⭐ Self supervised learning (subset of unsupervised learning) papers
+## Key contrastive learning papers
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
 2. **Instance Discrimination** (Wu et al.) | Viewed each image instance as a separate class + **memory bank** for negatives
 3. **MoCo v1 – Momentum Contrast** | **Momentum encoder** + **queue** to maintain consistent negative samples
@@ -39,7 +39,8 @@
 6. **SimCLR v2** | Shows deeper nets + longer training significantly improves CL
 7. **BYOL – Bootstrap Your Own Latent** |**No negatives**; uses **momentum teacher** & **stop-gradient** to avoid collapse
 8. **SimSiam** |Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA)
-9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**    
+9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
+## Key generative learning papers
 
 # ⭐ Key vector quantisation papers  
 1. Vector quantizers with direct sum codebooks, IEEE Trans. on information theory, vol. 39, 1993
