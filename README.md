@@ -219,4 +219,5 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 3. [PGL: https](//github.com/PaddlePaddle/PGL)
 4. [Euler](https://github.com/alibaba/euler)
 5. [SGL](https://github.com/PKU-DAIR/SGL)
-6. [Stellar graph](stellargraph)
+6. [Stellar graph](stellargraph) **(provides a exhaustive list of unsupervised graph embedding methods)**
+7.  [WANDB](https://wandb.ai/syllogismos/machine-learning-with-graphs/workspace?nw=nwusersyllogismos)
