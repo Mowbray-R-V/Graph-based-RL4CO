@@ -41,7 +41,7 @@
 6. **SimCLR v2** | Shows deeper nets + longer training significantly improves CL
 7. Bootstrap Your Own Latent (**BYOL**), NeurIPS 2020 — No negatives; employs a momentum (EMA) teacher and stop-gradient to prevent representation collapse.
 8. Exploring Simple Siamese Representation Learning (**SimSiam**), 2020 — A simplified BYOL variant that removes the EMA target network, preventing collapse using only a stop-gradient mechanism and a shared-weight Siamese encoder.
-9. Image BERT pre-training with online tokenizer (**iBOT**), ICLR 2022 — a transformer-based self-supervised method combining masked image modeling and EMA teacher–student distillation for patch- and image-level alignment.
+9. Image BERT pre-training with online tokenizer (**iBOT**), ICLR 2022 — A transformer-based self-supervised learner that combines masked image modeling with EMA teacher–student distillation, aligning patch-level and global representations.
 10. Emerging Properties in Self-Supervised Vision Transformers (**DINO**), ICCV 2021 | A self-distillation framework without labels, where a momentum teacher guides the student via cross-view consistency, producing highly transferable visual features.
 11. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
 12. 
@@ -49,7 +49,9 @@
 
 ## Key generative learning papers
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
-2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023   
+2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023| A masked graph autoencoder with EMA teacher–student regularization and muulti-view latent representation.
+
+3. GraphMAE2 (Hou et al., WWW 2023): A masked graph autoencoder with EMA teacher–student regularization that improves robustness by combining feature reconstruction and latent representation alignment in graph space.
 
 # ⭐ Key vector quantisation papers  
 1. Vector quantizers with direct sum codebooks, IEEE Trans. on information theory, vol. 39, 1993
