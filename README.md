@@ -43,9 +43,10 @@
 8. Exploring Simple Siamese Representation Learning (**SimSiam**), 2020 — A simplified BYOL variant that removes the EMA target network, preventing collapse using only a stop-gradient mechanism and a shared-weight Siamese encoder.
 9. Image BERT pre-training with online tokenizer (**iBOT**), ICLR 2022 — A transformer-based self-supervised learner that combines masked image modeling with EMA teacher–student distillation, aligning patch-level and global representations.
 10. Emerging Properties in Self-Supervised Vision Transformers (**DINO**), ICCV 2021 | A self-distillation framework(EMA) without labels, where a momentum teacher guides the student via cross-view consistency, producing highly transferable visual features.
-11. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
-12. 
-13. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
+11. Learning Transferable Visual Models From Natural Language Supervision (**CLIP**) — trains a joint vision–language model using contrastive learning on image–text pairs, enabling zero-shot image recognition via alignment of visual and textual embeddings.
+12. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
+13. 
+14. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
 
 ## Key generative learning papers
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
