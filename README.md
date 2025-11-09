@@ -42,7 +42,7 @@
 9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
 ## Key generative learning papers
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
-2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, KDD 2023   
+2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023   
 
 # ⭐ Key vector quantisation papers  
 1. Vector quantizers with direct sum codebooks, IEEE Trans. on information theory, vol. 39, 1993
