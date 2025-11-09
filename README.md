@@ -48,6 +48,9 @@
 13. Self-Supervised Learning via Redundancy Reduction (**Barlow Twins**), ICML 2021 | Introduces a correlation-based redundancy reduction objective that naturally prevents representation collapse without tricks such as (1) Large batch sizes (contrastive learning typically does), (2) Asymmetric architecture (BYOL uses of EMA teacher and predictor), (3) Stop-gradient or momentum updates.
 14. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
 
+<img width="1407" height="357" alt="image" src="https://github.com/user-attachments/assets/5edb8c8f-dbed-4bdc-89b2-cd5807e81ca5" />
+
+
 ## Key generative learning papers
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
 2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023| A masked graph autoencoder with EMA teacher–student regularization and muulti-view latent representation.
