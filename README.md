@@ -39,10 +39,12 @@
 4. **SimCLR v1** | Uses **strong augmentations** + **large batch** contrastive training
 5. **MoCo v2** | Adds **MLP projection head** + SimCLR augmentations to MoCo for stronger accuracy
 6. **SimCLR v2** | Shows deeper nets + longer training significantly improves CL
-7. Bootstrap Your Own Latent: A NewApproach to Self-Supervised Learningt, NIPS 2020 |**No negatives**; uses **momentum teacher** & **stop-gradient** to avoid collapse
-8. **SimSiam** |Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA)
+7. Bootstrap Your Own Latent (**BYOL**), NeurIPS 2020 — No negatives; employs a momentum (EMA) teacher and stop-gradient to prevent representation collapse.
+8. Exploring Simple Siamese Representation Learning (**SimSiam**), 2020 — A simplified BYOL variant that removes the EMA target network, preventing collapse using only a stop-gradient mechanism and a shared-weight Siamese encoder.
 9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
-10. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
+10. 
+11. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
+
 ## Key generative learning papers
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
 2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023   
