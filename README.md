@@ -41,9 +41,11 @@
 6. **SimCLR v2** | Shows deeper nets + longer training significantly improves CL
 7. Bootstrap Your Own Latent (**BYOL**), NeurIPS 2020 — No negatives; employs a momentum (EMA) teacher and stop-gradient to prevent representation collapse.
 8. Exploring Simple Siamese Representation Learning (**SimSiam**), 2020 — A simplified BYOL variant that removes the EMA target network, preventing collapse using only a stop-gradient mechanism and a shared-weight Siamese encoder.
-9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
-10. 
-11. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
+9. iBOT: Image BERT pre-training with online tokenizer, ICLR 2022 — a transformer-based self-supervised method combining masked image modeling and EMA teacher–student distillation for patch- and image-level alignment.
+10. Emerging Properties in Self-Supervised Vision Transformers, ICCV 2021 | A self-distillation framework without labels, where a momentum teacher guides the student via cross-view consistency, producing highly transferable visual features.
+11. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
+12. 
+13. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
 
 ## Key generative learning papers
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
