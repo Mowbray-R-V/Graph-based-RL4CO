@@ -24,6 +24,8 @@
 23. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584)
 24. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 25. Learning from graphs beyond message passing neural networks, ICLR(Tiny) 2024 **(Nice bird's-eye view of GraphML algorithms into three clases : Using graphs during (a) training (b) preprocessing (c)test-time inferencing)**
+26. [Self-Supervised Representation Learning from lil's blog](https://lilianweng.github.io/posts/2019-11-10-self-supervised/#contrastive-learning)
+    
 
 # ⭐ Large-scale graph neural networks
 1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025
@@ -40,6 +42,7 @@
 7. **BYOL – Bootstrap Your Own Latent** |**No negatives**; uses **momentum teacher** & **stop-gradient** to avoid collapse
 8. **SimSiam** |Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA)
 9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
+10. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
 ## Key generative learning papers
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
 2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023   
