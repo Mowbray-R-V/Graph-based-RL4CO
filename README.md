@@ -39,7 +39,7 @@
 4. **SimCLR v1** | Uses **strong augmentations** + **large batch** contrastive training
 5. **MoCo v2** | Adds **MLP projection head** + SimCLR augmentations to MoCo for stronger accuracy
 6. **SimCLR v2** | Shows deeper nets + longer training significantly improves CL
-7. **BYOL – Bootstrap Your Own Latent** |**No negatives**; uses **momentum teacher** & **stop-gradient** to avoid collapse
+7. Bootstrap Your Own Latent: A NewApproach to Self-Supervised Learningt, NIPS 2020 |**No negatives**; uses **momentum teacher** & **stop-gradient** to avoid collapse
 8. **SimSiam** |Simplified BYOL — collapse avoided via **stop-gradient** only (no EMA)
 9. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
 10. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
