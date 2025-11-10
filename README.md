@@ -46,7 +46,8 @@
 11. Learning Transferable Visual Models From Natural Language Supervision (**CLIP**) — trains a joint vision–language model using contrastive learning on image–text pairs, enabling zero-shot image recognition via alignment of visual and textual embeddings.
 12. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
 13. Self-Supervised Learning via Redundancy Reduction (**Barlow Twins**), ICML 2021 | Introduces a correlation-based redundancy reduction objective that naturally prevents representation collapse without tricks such as (1) Large batch sizes (contrastive learning typically does), (2) Asymmetric architecture (BYOL uses of EMA teacher and predictor), (3) Stop-gradient or momentum updates.
-14. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
+14. COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training
+15. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
 
 <img width="1407" height="357" alt="image" src="https://github.com/user-attachments/assets/5edb8c8f-dbed-4bdc-89b2-cd5807e81ca5" />
 
