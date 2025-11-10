@@ -51,6 +51,21 @@
 
 <img width="1407" height="357" alt="image" src="https://github.com/user-attachments/assets/5edb8c8f-dbed-4bdc-89b2-cd5807e81ca5" />
 
+## Graph constrative learning
+1. Deep Graph Infomax (DGI) — Velickovic et al., ICLR 2019
+2. Graph Contrastive Learning with Augmentations (GraphCL) — You et al., NeurIPS 2020
+3. Multi-View Graph Representation Learning (MVGRL) — Hassani & Ahmadi, ICML 2020
+4. Graph Contrastive Representation Learning (GRACE) — Zhu et al., NeurIPS 2020
+5. Graph Contrastive Learning with Adaptive Augmentations (GCA) — Zhu et al., NeurIPS 2021
+6. Graph Contrastive Learning Automated (JOAO) — You et al., NeurIPS 2021
+7. Bootstrapped Representation Learning on Graphs (BGRL) — Thakoor et al., NeurIPS 2021
+8. Graph Barlow Twins (GBT) — Zhao et al., ICLR 2022
+9. InfoGraph — Sun et al., ICLR 2020
+10. Understanding and Improving Graph Contrastive Learning: A Theoretical Perspective — Tian et al., NeurIPS 2021
+11. CCA-SSG (Canonical Correlation Analysis for Self-Supervised GNNs) — Zhang et al., NeurIPS 2021
+12. SimGRACE (Simplifying Graph Contrastive Learning) — Xia et al., ICLR 2022
+13. GraphCLIP (Contrastive Language-Graph Pretraining) — Wang et al., NeurIPS 2023
+
 
 ## Key generative learning papers
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
