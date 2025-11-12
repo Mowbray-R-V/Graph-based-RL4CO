@@ -31,6 +31,12 @@
 1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025
 2. 
 
+# ⭐ Key attention papers papers
+014	Sutskever, Vinyals, Le (Seq2Seq)	Basic encoder–decoder without attention
+2015	Bahdanau et al.	🔥 Introduced the attention mechanism (soft alignment)
+2015	Luong et al., “Effective Approaches to Attention-based NMT”	Variants: global/local attention
+2017	Vaswani et al., “Attention Is All You Need”	Generalized attention → Transformer architecture (no recurrence, only attention)
+
 # ⭐ Self supervised learning (subset of unsupervised learning) papers
 ## Key contrastive learning papers
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
