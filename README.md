@@ -244,6 +244,12 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 ## Papers
 1.  Multi-grained contrastive-learning driven MLPs for node classification, Nature 2025 **(lucid explanation of GNN and CL)**
    
+LogiPlan: A Structured Benchmark for Logical Planning and
+Relational Reasoning in LLMs
+
+
+# ⭐ Reasoning over relational/structured data
+LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs
 
 # Unsorted
 1.  Local and Global Structure Preservation for Robust Unsupervised Spectral Feature Selection,  2018
