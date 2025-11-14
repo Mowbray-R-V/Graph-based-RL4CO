@@ -26,6 +26,8 @@
 25. Learning from graphs beyond message passing neural networks, ICLR(Tiny) 2024 **(Nice bird's-eye view of GraphML algorithms into three clases : Using graphs during (a) training (b) preprocessing (c)test-time inferencing)**
 26. [Self-Supervised Representation Learning from lil's blog](https://lilianweng.github.io/posts/2019-11-10-self-supervised/#contrastive-learning)
     
+# ⭐ Key graph foundation model papers 
+
 
 # ⭐ Large-scale graph neural networks
 1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025
