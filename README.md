@@ -28,6 +28,10 @@
     
 # ⭐ Key graph foundation model papers 
 
+# ⭐ masked language based approaches
+1. BEIT: BERT Pre-Training of Image Transformers, 2022        
+2. 
+
 
 # ⭐ Large-scale graph neural networks
 1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025
@@ -47,15 +51,28 @@
 4. **SimCLR v1** | Uses **strong augmentations** + **large batch** contrastive training
 5. **MoCo v2** | Adds **MLP projection head** + SimCLR augmentations to MoCo for stronger accuracy
 6. **SimCLR v2** | Shows deeper nets + longer training significantly improves CL
-7. Bootstrap Your Own Latent (**BYOL**), NeurIPS 2020 — No negatives; employs a momentum (EMA) teacher and stop-gradient to prevent representation collapse.
+7. Bootstrap Your Own Latent A New Approach to Self-Supervised Learning (**BYOL**), NeurIPS 2020 — No negatives; employs a momentum (EMA) teacher and stop-gradient to prevent representation collapse.
 8. Exploring Simple Siamese Representation Learning (**SimSiam**), 2020 — A simplified BYOL variant that removes the EMA target network, preventing collapse using only a stop-gradient mechanism and a shared-weight Siamese encoder.
 9. Image BERT pre-training with online tokenizer (**iBOT**), ICLR 2022 — A transformer-based self-supervised learner that combines masked image modeling with EMA teacher–student distillation, aligning patch-level and global representations.
 10. Emerging Properties in Self-Supervised Vision Transformers (**DINO**), ICCV 2021 | A self-distillation framework(EMA) without labels, where a momentum teacher guides the student via cross-view consistency, producing highly transferable visual features.
 11. Learning Transferable Visual Models From Natural Language Supervision (**CLIP**) — trains a joint vision–language model using contrastive learning on image–text pairs, enabling zero-shot image recognition via alignment of visual and textual embeddings.
 12. **MoCo v3** | Extends MoCo to **Vision Transformers (ViT)**
 13. Self-Supervised Learning via Redundancy Reduction (**Barlow Twins**), ICML 2021 | Introduces a correlation-based redundancy reduction objective that naturally prevents representation collapse without tricks such as (1) Large batch sizes (contrastive learning typically does), (2) Asymmetric architecture (BYOL uses of EMA teacher and predictor), (3) Stop-gradient or momentum updates.
-14. COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training
+14. COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training, 2025
 15. [Contrastive Representation Learning from Lil's log](https://lilianweng.github.io/posts/2021-05-31-contrastive/) **(provides a great explanation on different contrastive methods)**
+16. Deep Clustering for Unsupervised Learning of Visual Features
+17. Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
+18. Contrasting the landscape of contrastive and non-contrastive learning        
+19. A Survey on Contrastive Self-supervised Learning
+20. Emerging Properties in Self-Supervised Vision Transformers (**VIT**)
+21. [Self-Supervised Learning | Yann LeCun's Tutorial at NeurIPS](https://www.youtube.com/watch?v=ftksf0R6DL0)
+22. [Understanding BYOL](https://imbue.com/research/2020-08-24-understanding-self-supervised-contrastive-learning/)
+23. [BYOL tutorial](https://theaisummer.com/byol/)
+24. [Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
+25. [Contrastive Learning – SimCLR and BYOL](https://learnopencv.com/contrastive-learning-simclr-and-byol-with-code-example/)
+26. [An Overview of Contrastive Learning](https://u9534056.medium.com/an-overview-of-contrastive-learning-fa520f5f2c23)
+27. 
+
 
 <img width="1407" height="357" alt="image" src="https://github.com/user-attachments/assets/5edb8c8f-dbed-4bdc-89b2-cd5807e81ca5" />
 
