@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/Mowbray-R-V/Graph-based-RL4CO)
 ![](https://img.shields.io/github/last-commit/Mowbray-R-V/Graph-based-RL4CO?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
-<img src="https://badges.pufler.dev/visits/hkuds/Awesome-LLM4Graph-Papers?style=flat-square&logo=github">
+
 
 
 
