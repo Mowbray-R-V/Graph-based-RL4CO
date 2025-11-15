@@ -1,4 +1,4 @@
-# ⭐ Tutorial (Work in progress)
+# ⭐ Awesome Graph Reprsentation Learning (Work in progress)
 [![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2405.08011)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
 ![](https://img.shields.io/github/last-commit/HKUDS/Awesome-LLM4Graph-Papers?color=green) 
