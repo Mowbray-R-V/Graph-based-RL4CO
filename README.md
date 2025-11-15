@@ -13,7 +13,7 @@ If any authors prefer their papers not to be listed here, please feel free to re
 You are welcome to contribute! If you find a paper that is not yet included, please open an issue or submit a pull request.
 
 
-
+# ⭐ Tutorials
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 2. [Geometric deep learning book](https://geometricdeeplearning.com/book/)
 3. [Math behind GNN ](https://rish-16.github.io/posts/gnn-math/)
