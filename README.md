@@ -1,11 +1,10 @@
 # ⭐ Awesome Graph Reprsentation Learning (Work in progress)
 [![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2405.08011)
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
-![](https://img.shields.io/github/last-commit/HKUDS/Awesome-LLM4Graph-Papers?color=green) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/Mowbray-R-V/Graph-based-RL4CO)
+![](https://img.shields.io/github/last-commit/Mowbray-R-V/Graph-based-RL4CO?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 <img src="https://badges.pufler.dev/visits/hkuds/Awesome-LLM4Graph-Papers?style=flat-square&logo=github">
-![](https://img.shields.io/github/stars/HKUDS/Awesome-LLM4Graph-Papers?color=yellow)
-![](https://img.shields.io/github/forks/HKUDS/Awesome-LLM4Graph-Papers?color=lightblue)
+
 
 
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
