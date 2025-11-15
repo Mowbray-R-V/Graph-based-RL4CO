@@ -40,7 +40,16 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 24. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 25. Learning from graphs beyond message passing neural networks, ICLR(Tiny) 2024 **(Nice bird's-eye view of GraphML algorithms into three clases : Using graphs during (a) training (b) preprocessing (c)test-time inferencing)**
 26. [Self-Supervised Representation Learning from lil's blog](https://lilianweng.github.io/posts/2019-11-10-self-supervised/#contrastive-learning)
-    
+
+
+
+## Tutorials and Workshops
+
+### Graph representation learning
+- [KDD 2018 Graph Representation Tutorial]( https://ivanbrugere.github.io/kdd2018/)
+- [WWW 2018 Representation Learning on Networks Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
+- [AAAI 2019 Graph Representation Learning Tutorial ](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf)
+- [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)****
 # ⭐ Key graph foundation model papers 
 
 # ⭐ masked language based approaches
