@@ -1,5 +1,4 @@
 # Awesome Graph Reprsentation Learning (Work in progress)
-[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2405.08011)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/Mowbray-R-V/Graph-based-RL4CO)
 ![](https://img.shields.io/github/last-commit/Mowbray-R-V/Graph-based-RL4CO?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
