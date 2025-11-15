@@ -8,7 +8,7 @@ This repository focuses on Graph Representation Learning (GRL) research. We inve
 The repository is designed to give newcomers a clear overview of the different approaches for representing structured data such as graphs, and how these representations can be leveraged across various downstream tasks.
 
 If any authors prefer their papers not to be listed here, please feel free to reach out.
-(This repository is actively under development. We appreciate any constructive comments and suggestions.)
+(**This repository is actively under development. We appreciate any constructive comments and suggestions.**)
 
 You are welcome to contribute! If you find a paper that is not yet included, please open an issue or submit a pull request.
 
