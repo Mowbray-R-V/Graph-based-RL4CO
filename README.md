@@ -62,6 +62,10 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 3. Attention Is All You Need, NeurIPS-2017 (**Introduces the Transformer with multi-head self-attention and no recurrence/convolutions, forming the basis of modern LLMs**)​
 ---
 # ⭐ Self supervised learning (subset of unsupervised learning) 
+1. Self-Supervised Learning on Graphs: Contrastive, Generative, or Predictive, IEEE transaction 2023
+2. Graph Self-Supervised Learning: A Survey, IEEE transaction 2023
+3. Self-supervised Learning on Graphs: Deep Insights and New Directions
+   
 ## 🔹 Contrastive learning 
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
 2. **Instance Discrimination** (Wu et al.) | Viewed each image instance as a separate class + **memory bank** for negatives
@@ -106,7 +110,9 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 11. CCA-SSG (Canonical Correlation Analysis for Self-Supervised GNNs) — Zhang et al., NeurIPS 2021
 12. SimGRACE (Simplifying Graph Contrastive Learning) — Xia et al., ICLR 2022
 13. GraphCLIP (Contrastive Language-Graph Pretraining) — Wang et al., NeurIPS 2023
-
+14. An Empirical Study of Graph Contrastive Learning, NIPS 2021
+15. Towards Graph Contrastive Learning: A Survey and Beyond, ACM 2024
+16. Multi-grained contrastive-learning driven MLPs for node classification, Nature 2025 **(lucid explanation of GNN and CL)**      
 
 ## 🔹 Generative learning 
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
@@ -154,6 +160,7 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 7. Demystifying Higher-Order Graph Neural Networks      
 8. A Survey on The Expressive Power of Graph Neural Networks    
 9. How Powerful are K-hop Message Passing Graph Neural Networks, NIPS 2022 **( expressive power is bounded by 3-WL)**
+
 ---
 
 
@@ -167,7 +174,7 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 7. Lanczos Network (LanczosNet), ICLR 2019  
 8. Spectral Attention Network (SAN), NeurIPS 2020  
 9. Fourier Graph Neural Network (Fourier GNN), ICLR 2021  
-10. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021
+10. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021      
 ---
 
 
@@ -268,25 +275,15 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 ## Contrastive / InfoMax (Learn by pulling positive pairs together and pushing negatives apart (or bootstrapping). DGI, GraphCL, GRACE, MVGRL, InfoNCE losses, BGRL (no-negatives)
 
 
-# ⭐ Graph constrastive learning
-## Survey 
-1. An Empirical Study of Graph Contrastive Learning, NIPS 2021      
-2. Towards Graph Contrastive Learning: A Survey and Beyond, ACM 2024
-3. Self-Supervised Learning on Graphs: Contrastive, Generative, or Predictive, IEEE transaction 2023
-4. Graph Self-Supervised Learning: A Survey, IEEE transaction 2023
-5. Self-supervised Learning on Graphs: Deep Insights and New Directions
-## 
-1.  Multi-grained contrastive-learning driven MLPs for node classification, Nature 2025 **(lucid explanation of GNN and CL)**
-   
-LogiPlan: A Structured Benchmark for Logical Planning and
-Relational Reasoning in LLMs
+
 
 
 # ⭐ Reasoning over relational/structured data
 LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs
 
-# Unsorted
+# ⭐ Unsorted
 1.  Local and Global Structure Preservation for Robust Unsupervised Spectral Feature Selection,  2018
+2.  [WANDB](https://wandb.ai/syllogismos/machine-learning-with-graphs/workspace?nw=nwusersyllogismos)
 
 
 
@@ -297,4 +294,4 @@ LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning i
 4. [Euler](https://github.com/alibaba/euler)
 5. [SGL](https://github.com/PKU-DAIR/SGL)
 6. [Stellar graph](stellargraph) **(provides a exhaustive list of unsupervised graph embedding methods)**
-7.  [WANDB](https://wandb.ai/syllogismos/machine-learning-with-graphs/workspace?nw=nwusersyllogismos)
+
