@@ -165,22 +165,18 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 
 # ⭐ Graph neural netwrok
-## Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis. Estimkation of eigen-decomposition for large graph intractable, )
+## 🔹Spectral methods (Defines convolution in the graph Fourier (spectral) domain using the graph Laplacian’s eigenbasis. Estimation of eigen-decomposition for large graph intractable, )
 1. Spectral Convolutional Neural Network (Spectral CNN), ICLR 2014  
 2. Chebyshev Graph Convolutional Network (ChebNet), NeurIPS 2016  
-3. Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017  **(Personal intitution: have a shared weights CNN visualisation in mind to have a better understanding)** GCNs already perform an aggregation that enforces neighbor similarity as an inductive bias.
+3. Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017  **(have a shared weights CNN visualisation in mind to have a better understanding)**. **inductive bias-**GCNs already perform an aggregation that enforces neighbor similarity.
 5. CayleyNet (CayleyNet), ICML 2018  
 6. GraphWave / DiffusionWavelet (GraphWave), KDD 2018  
 7. Lanczos Network (LanczosNet), ICLR 2019  
 8. Spectral Attention Network (SAN), NeurIPS 2020  
 9. Fourier Graph Neural Network (Fourier GNN), ICLR 2021  
 10. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021      
----
 
-
-## Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages) 
-These methods basically have two steps 1) Feature smoothing → captures graph structure, 2) Feature transformation → captures feature semantics (learns embeedings in a better reprsentation space speific to the downstream problem)
----------------------------------------
+## 🔹Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages) These methods basically have two steps 1) Feature smoothing → captures graph structure, 2) Feature transformation → captures feature semantics (learns embeedings in a better reprsentation space speific to the downstream problem)
 1. GraphSAGE (GraphSAGE), NeurIPS 2017  
 2. Graph Attention Network (GAT), ICLR 2018  
 3. Message Passing Neural Network (MPNN), ICML 2017  
@@ -194,13 +190,13 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 11. Graph Transformer Network (GTN), NeurIPS 2019  
 12. Graph Convolutional Network for Semi-Supervised Learning (GCNII), ICML 2020  
 13. Graph Field Network (GFN), NeurIPS 2021
-
-
-# ⭐ Oversmoothing 
+### 🔸  Oversmoothing (Due to node aggregation)
 1. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning, AAAI 2018
 2. Evaluating Deep Graph Neural Networks, 2017
 3. NAFS: ASimple yet Tough-to-beat Baseline for Graph Representation Learning, icml 2022
-4. OnProvable Benefits of Depth in Training Graph Convolutional Networks, NIPS 2021
+4. On Provable Benefits of Depth in Training Graph Convolutional Networks, NIPS 2021
+
+---
 
 
 
