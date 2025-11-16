@@ -75,13 +75,8 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 2. ​Effective Approaches to Attention-based Neural Machine Translation, EMNLP-2015 (**global vs local attention, compares dot/general/concat scoring functions, and shows strong practical NMT gains**)
 3. Attention Is All You Need, NeurIPS-2017 (**Introduces the Transformer with multi-head self-attention and no recurrence/convolutions, forming the basis of modern LLMs**)​
 
-
-<! # ⭐ Types of learning
-1. Supervised: Explicit labels for nodes or graphs (e.g., node classification); common loss: Cross-entropy between predicted and true labels
-2. Self-supervised/Un-Supervised: No labels — model builds its own pseudo-task (e.g., contrastive learning, context prediction); common loss: InfoNCE, MI maximization
-3. Semi-supervised: Labeled + unlabeled data combined; comon loss: Labeled loss + self-supervised regularizer !>
-
 ---
+
 # ⭐ Self supervised learning (subset of unsupervised learning) 
 1. Self-Supervised Learning on Graphs: Contrastive, Generative, or Predictive, IEEE transaction 2023
 2. Graph Self-Supervised Learning: A Survey, IEEE transaction 2023
