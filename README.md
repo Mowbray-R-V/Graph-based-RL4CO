@@ -56,7 +56,13 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 7. Benchmarking Graph Foundation Models — ACM / DL venue, 2024–2025      
 
 # ⭐ Masked language models
-1.    
+1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018
+2. RoBERTa: A Robustly Optimized BERT Pretraining Approach, 2019
+3. SpanBERT: Improving Pre-training by Representing and Predicting Spans. 2019 ACL Anthology
+4. ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators — ICLR (2020)
+5. ERNIE: Enhanced Representation through Knowledge Integration — 2019
+6. DistilBERT: A Distilled Version of BERT, 2019
+7. BEiT: BERT Pre-Training of Image Transformers, CoRR (2021)      
 
 ---
 
