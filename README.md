@@ -47,6 +47,7 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 ---
 
 # ⭐ Graph foundation model 
+1. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025
 
 # ⭐ Masked language models
 1. BEIT: BERT Pre-Training of Image Transformers, 2022        
@@ -152,7 +153,7 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 # ⭐ Expressiveness
 1.B. Weisfeiler and A. Leman, “A reduction of a graph to a canonical form and an algebra arising during this reduction,” Nauchno-Technicheskaya Informatsia, 1968.      
-2. How powerful are graph neural network?, ICLR 2019 **(many GNNs (Message Passing Neural Networks) are isomorphism-invariant; they cannot distinguish two isomorphic graphs and are expressive power is bounded by 1-WL)**      
+2. How powerful are graph neural network?, ICLR 2019 **(MPNN GNNs are isomorphism-invariant; they cannot distinguish two isomorphic graphs and are expressive power is bounded by 1-WL)**      
 3. go neural: higher-order graph neural networks, AAAI 2019      
 4. Graph Positional and Structural Encoder, ICML 2024      
 5. Graph Neural Netwroks With Learnable Structural and Positional Representations, ICLR 2022      
@@ -242,10 +243,6 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 <img src="https://github.com/user-attachments/assets/371b1811-d51e-4ed2-bc83-43fe2ebf32c0" width="50%">
 
-
-# GNN generalisation (across different structures, label space and node feature space)
-1. How Powerful are Graph Neural Networks?, ICLR 2019 (Connects GNN expressivity and generalization to the Weisfeiler-Lehman test. Shows limits of message passing.)
-2. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025
 
 
 # ⭐ Node embedding 
