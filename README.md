@@ -47,7 +47,13 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 ---
 
 # ⭐ Graph foundation model 
-1. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025
+1. Fully-Inductive Node Classification on Arbitrary Graphs, ICLR 2025 (**For nodel-olevel tasks**)
+2. Do Transformers Really Perform Bad for Graph Representation? (**Graphormer**), NeurIPS 2021
+3. Towards Graph Foundation Models: A Survey and Beyond — arXiv, 2023
+4. Graph Learning with Generative Pre-trained Transformers (**GraphGPT**)
+5. Towards Graph Foundation Models (tutorial), WWW-2024   (**Tutorial framing the landscape and challenges of graph foundation models**)​
+6. Graph Foundation Models: A Comprehensive Survey,  2025
+7. Benchmarking Graph Foundation Models — ACM / DL venue, 2024–2025      
 
 # ⭐ Masked language models
 1. BEIT: BERT Pre-Training of Image Transformers, 2022        
