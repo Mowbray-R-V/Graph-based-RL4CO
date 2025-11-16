@@ -186,9 +186,18 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 7. Lanczos Network (LanczosNet), ICLR 2019  
 8. Spectral Attention Network (SAN), NeurIPS 2020  
 9. Fourier Graph Neural Network (Fourier GNN), ICLR 2021  
-10. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021      
+10. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021
 
-## 🔹Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages) These methods basically have two steps 1) Feature smoothing → captures graph structure, 2) Feature transformation → captures feature semantics (learns embeedings in a better reprsentation space speific to the downstream problem)
+## 🔹 Structural role  (Capture role/functional similarity independent of position--Structural role discovery → identify nodes that play equivalent roles under isomorphism (automorphism groups).) 
+1. Roles, positions, and social networks — Stephen P. Borgatti, Martin G. Everett, Social Networks, 1992 (foundational theory of structural roles and equivalence in networks)
+2. The role concept in social network analysis — Lorrain & White, Journal of Mathematical Sociology, 1971 (classical notion of structural equivalence)
+3. RolX: Structural Role Extraction & Mining in Large Graphs — K. Henderson, B. Gallagher, T. Eliassi-Rad et al., KDD, 2012 (RoleX: automatic role discovery using feature-based NMF decomposition)
+4. Revisiting Role Discovery in Networks — K. Henderson, B. Gallagher et al., NIPS Workshop, 2013 (extended RoleX with probabilistic role assignment)
+5. struc2vec: Learning Node Representations from Structural Identity — Leonardo F.R. Ribeiro, Pedro Saverese, Daniel R. Figueiredo, KDD, 2017 (hierarchical structural similarity graph + random walks)
+6. GraphWave: Learning Structural Node Embeddings via Heat Wavelets — C. Donnat, M. Zitnik, D. Hallac, J. Leskovec, KDD, 2018 (spectral approach using heat diffusion kernel)
+   
+
+## 🔹 Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages) These methods basically have two steps 1) Feature smoothing → captures graph structure, 2) Feature transformation → captures feature semantics (learns embeedings in a better reprsentation space speific to the downstream problem)
 1. GraphSAGE (GraphSAGE), NeurIPS 2017  
 2. Graph Attention Network (GAT), ICLR 2018  
 3. Message Passing Neural Network (MPNN), ICML 2017  
@@ -253,27 +262,6 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 15. Do Transformers Really Perform Bad for Graph Representation?  
 
 <img src="https://github.com/user-attachments/assets/371b1811-d51e-4ed2-bc83-43fe2ebf32c0" width="50%">
-
-
-
-# ⭐ Node embedding 
-## Proximity  (Capture neighborhood co-occurrence / local similarity. DeepWalk, Node2Vec, matrix-factorization (HOPE, GraRep, LINE), adjacency-factorization, graph autoencoders (GAE/VGAE)) 
-## Structural role  (Capture role/functional similarity independent of position--Structural role discovery → identify nodes that play equivalent roles under isomorphism (automorphism groups).) 
-1. Roles, positions, and social networks — Stephen P. Borgatti, Martin G. Everett, Social Networks, 1992 (foundational theory of structural roles and equivalence in networks)
-2. The role concept in social network analysis — Lorrain & White, Journal of Mathematical Sociology, 1971 (classical notion of structural equivalence)
-3. RolX: Structural Role Extraction & Mining in Large Graphs — K. Henderson, B. Gallagher, T. Eliassi-Rad et al., KDD, 2012 (RoleX: automatic role discovery using feature-based NMF decomposition)
-4. Revisiting Role Discovery in Networks — K. Henderson, B. Gallagher et al., NIPS Workshop, 2013 (extended RoleX with probabilistic role assignment)
-5. struc2vec: Learning Node Representations from Structural Identity — Leonardo F.R. Ribeiro, Pedro Saverese, Daniel R. Figueiredo, KDD, 2017 (hierarchical structural similarity graph + random walks)
-6. GraphWave: Learning Structural Node Embeddings via Heat Wavelets — C. Donnat, M. Zitnik, D. Hallac, J. Leskovec, KDD, 2018 (spectral approach using heat diffusion kernel)
-   
-
-## Positional  (Encode node location / coordinates in graph (global geometry). Laplacian Eigenmaps, Spectral Embeddings, Distance-to-anchors, LapPE / RWSE for transformers)
-## Attribute-aware (Combine node features with structure (often inductive). GCN, GAT, GraphSAGE, HetGNN; autoencoders that reconstruct features+adj )
-## Diffusion / Global (Capture long-range influence / diffusion dynamics. PPR / Personalized PageRank embeddings, Heat kernel, APPNP, PPRGo, diffusion maps)
-## Contrastive / InfoMax (Learn by pulling positive pairs together and pushing negatives apart (or bootstrapping). DGI, GraphCL, GRACE, MVGRL, InfoNCE losses, BGRL (no-negatives)
-
-
-
 
 
 # ⭐ Reasoning over relational/structured data
