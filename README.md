@@ -155,13 +155,6 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 ---
 
 
-
-
-
-# ⭐ Key 
-1. Theory of Graph Neural Networks: Representation and Learning
-2. A Comprehensive Survey on Graph Neural Networks, 2019
-
 # ⭐ Expressiveness
 1.B. Weisfeiler and A. Leman, “A reduction of a graph to a canonical form and an algebra arising during this reduction,” Nauchno-Technicheskaya Informatsia, 1968.      
 2. How powerful are graph neural network?, ICLR 2019 **(MPNN GNNs are isomorphism-invariant; they cannot distinguish two isomorphic graphs and are expressive power is bounded by 1-WL)**      
@@ -265,7 +258,9 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 
 # ⭐ Reasoning over relational/structured data
-LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs
+LogiPlan: A Structured Benchmark for Logical Planning and Relational Reasoning in LLMs            `
+Theory of Graph Neural Networks: Representation and Learning         
+A Comprehensive Survey on Graph Neural Networks, 2019         
 
 # ⭐ Unsorted
 1.  Local and Global Structure Preservation for Robust Unsupervised Spectral Feature Selection,  2018
