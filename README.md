@@ -44,7 +44,7 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 28. [WWW 2018 Representation Learning on Networks Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
 29. [AAAI 2019 Graph Representation Learning Tutorial ](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf)
 30. [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
-
+---
 
 # ⭐ Graph foundation model 
 
@@ -55,15 +55,14 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 # ⭐ Large-scale graph neural networks
 1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025      
-
-# ⭐ Key attention  
-014	Sutskever, Vinyals, Le (Seq2Seq)	Basic encoder–decoder without attention
-2015	Bahdanau et al.	🔥 Introduced the attention mechanism (soft alignment)
-2015	Luong et al., “Effective Approaches to Attention-based NMT”	Variants: global/local attention
-2017	Vaswani et al., “Attention Is All You Need”	Generalized attention → Transformer architecture (no recurrence, only attention)
-
+---
+# ⭐ Attention mechanism  
+1. Neural Machine Translation by Jointly Learning to Align and Translate, ICLR-2015 (**Introduces encoder–decoder attention to learn soft alignments and remove the fixed-length bottleneck in NMT**)
+2. ​Effective Approaches to Attention-based Neural Machine Translation, EMNLP-2015 (**global vs local attention, compares dot/general/concat scoring functions, and shows strong practical NMT gains**)
+3. Attention Is All You Need, NeurIPS-2017 (**Introduces the Transformer with multi-head self-attention and no recurrence/convolutions, forming the basis of modern LLMs**)​
+---
 # ⭐ Self supervised learning (subset of unsupervised learning) 
-## Key contrastive learning 
+## 🔹 Contrastive learning 
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
 2. **Instance Discrimination** (Wu et al.) | Viewed each image instance as a separate class + **memory bank** for negatives
 3. **MoCo v1 – Momentum Contrast** | **Momentum encoder** + **queue** to maintain consistent negative samples
@@ -90,12 +89,10 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 24. [Contrastive Representation Learning](https://lilianweng.github.io/posts/2021-05-31-contrastive/)
 25. [Contrastive Learning – SimCLR and BYOL](https://learnopencv.com/contrastive-learning-simclr-and-byol-with-code-example/)
 26. [An Overview of Contrastive Learning](https://u9534056.medium.com/an-overview-of-contrastive-learning-fa520f5f2c23)
-27. 
-
 
 <img width="1407" height="357" alt="image" src="https://github.com/user-attachments/assets/5edb8c8f-dbed-4bdc-89b2-cd5807e81ca5" />
 
-## Graph constrative learning
+## 🔹 Graph constrative learning
 1. Deep Graph Infomax (DGI) — Velickovic et al., ICLR 2019
 2. Graph Contrastive Learning with Augmentations (GraphCL) — You et al., NeurIPS 2020
 3. Multi-View Graph Representation Learning (MVGRL) — Hassani & Ahmadi, ICML 2020
@@ -111,13 +108,14 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 13. GraphCLIP (Contrastive Language-Graph Pretraining) — Wang et al., NeurIPS 2023
 
 
-## Key generative learning 
+## 🔹 Generative learning 
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
-2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023| A masked graph autoencoder with EMA teacher–student regularization and muulti-view latent representation.
-
+2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023| A masked graph autoencoder with EMA teacher–student regularization and muulti-view latent representation.      
 3. GraphMAE2 (Hou et al., WWW 2023): A masked graph autoencoder with EMA teacher–student regularization that improves robustness by combining feature reconstruction and latent representation alignment in graph space.
 
-# ⭐ Key vector quantisation   
+---
+
+# ⭐ Vector quantisation   
 1. Vector quantizers with direct sum codebooks, IEEE Trans. on information theory, vol. 39, 1993
 2. Embedded wavelet zerotree coding with direct sum quantization structures, in Proceedings DCC’95 Data Compression Conference,  1995.
 3. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations **(vector quantization for clustering and the codebook vector is taken into computing contrastive loss. )**
@@ -125,19 +123,15 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 5. Neural Discrete Representation Learning, NIPS 2017 **(VQ-VAE)**
 6. Generating Diverse High-Fidelity Images with VQ-VAE-2, NIPS 2017 **(adds  multi-scale(global - local details channeled separately) hierarchical discrete codebooks)**
 7. Autoregressive image generation using residual quantization, IEEE/CVF 2022
-
+---
 # ⭐ Graph tokenizer
-1. Learning GraphQuantized Tokenizers, ICLR 2025
-2. 
+1. Learning GraphQuantized Tokenizers, ICLR 2025      
+---
 
 # ⭐ GNN to MLP knowledge distaaltion 
 1. Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction, 2025
-2. 
+---
 
-
-
-Graph SSL methods
-<img width="1325" height="784" alt="image" src="https://github.com/user-attachments/assets/bda44962-cca4-4393-bbf7-b1abf85e3f0d" />
 
 
 
@@ -160,6 +154,7 @@ Graph SSL methods
 7. Demystifying Higher-Order Graph Neural Networks      
 8. A Survey on The Expressive Power of Graph Neural Networks    
 9. How Powerful are K-hop Message Passing Graph Neural Networks, NIPS 2022 **( expressive power is bounded by 3-WL)**
+---
 
 
 # ⭐ Graph neural netwrok
@@ -173,6 +168,7 @@ Graph SSL methods
 8. Spectral Attention Network (SAN), NeurIPS 2020  
 9. Fourier Graph Neural Network (Fourier GNN), ICLR 2021  
 10. Auto-Regressive Moving-Average Graph Neural Network (ARMA GNN), IEEE TNNLS 2021
+---
 
 
 ## Spatial methods (Defines convolution directly in the node (spatial) domain by aggregating neighbors’ messages) 
