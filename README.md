@@ -7,13 +7,13 @@ This repository focuses on Graph Representation Learning (GRL) research. We inve
 
 The repository is designed to give newcomers a clear overview of the different approaches for representing structured data such as graphs, and how these representations can be leveraged across various downstream tasks.
 
-If any authors prefer their papers not to be listed here, please feel free to reach out.
+If any authors prefer their  not to be listed here, please feel free to reach out.
 (**This repository is actively under development. We appreciate any constructive comments and suggestions.**)
 
 You are welcome to contribute! If you find a paper that is not yet included, please open an issue or submit a pull request.
 
 
-# ⭐ Tutorials
+# ⭐ Tutorials and Workshops
 1. [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 2. [Geometric deep learning book](https://geometricdeeplearning.com/book/)
 3. [Math behind GNN ](https://rish-16.github.io/posts/gnn-math/)
@@ -23,7 +23,7 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 7. [Two-Dimensional Weisfeiler-Lehman Graph Neural Networks for Link Prediction](https://arxiv.org/pdf/1709.05584)
 8. [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261)
 9. [Introduction to Graph Neural Networks: A Starting Point for Machine Learning Engineers](https://arxiv.org/pdf/2412.19419)
-10. [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)  **(key papers)**
+10. [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)  **(key )**
 11. [GCN code](https://github.com/tkipf/gcn) **(need to redo from scratch)**
 12. [GAT code]() **(need to redo from scratch)**
 13. [Simplifying Graph Convolutional Networks](https://github.com/Tiiiger/SGC) **(need to redo from scratch)**
@@ -31,44 +31,39 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 15. [Graph Representation Learning](https://github.com/dsgiitr/graph_nets) **(need to check this)**
 16. [GNN blogs](https://tkipf.github.io/graph-convolutional-networks/?ref=inference.vc) **(need to check this)**
 17. [GNN blogs](https://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/****)  **(need to check this)**
-18. [Awesome-Large-Scale-Graph-Learning](https://github.com/YuanchenBei/Awesome-Large-Scale-Graph-Learning) **(key papers)**
+18. [Awesome-Large-Scale-Graph-Learning](https://github.com/YuanchenBei/Awesome-Large-Scale-Graph-Learning) **(key )**
 19. [Demystifying Graph Convolutional Neural Network (GCN)](https://www.youtube.com/watch?v=93FiLSxKr_U&t=6s)
 20. [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210) **(Great start for contrastive learning )**
-21. [Awesome-LLM4Graph-Papers](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
+21. [Awesome-LLM4Graph-](https://github.com/HKUDS/Awesome-LLM4Graph-)
 22. [CS224W: Machine Learning with Graphs Stanford / Fall 2025](https://web.stanford.edu/class/cs224w/)
 23. [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584)
 24. [intro-to-gnns-course](https://github.com/zjost/intro-to-gnns-course/tree/master)
 25. Learning from graphs beyond message passing neural networks, ICLR(Tiny) 2024 **(Nice bird's-eye view of GraphML algorithms into three clases : Using graphs during (a) training (b) preprocessing (c)test-time inferencing)**
 26. [Self-Supervised Representation Learning from lil's blog](https://lilianweng.github.io/posts/2019-11-10-self-supervised/#contrastive-learning)
+27. [KDD 2018 Graph Representation Tutorial]( https://ivanbrugere.github.io/kdd2018/)
+28. [WWW 2018 Representation Learning on Networks Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
+29. [AAAI 2019 Graph Representation Learning Tutorial ](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf)
+30. [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 
 
+# ⭐ Graph foundation model 
 
-## Tutorials and Workshops
-
-### Graph representation learning
-- [KDD 2018 Graph Representation Tutorial]( https://ivanbrugere.github.io/kdd2018/)
-- [WWW 2018 Representation Learning on Networks Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
-- [AAAI 2019 Graph Representation Learning Tutorial ](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf)
-- [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)****
-# ⭐ Key graph foundation model papers 
-
-# ⭐ masked language based approaches
+# ⭐ Masked language models
 1. BEIT: BERT Pre-Training of Image Transformers, 2022        
 2. 
 
 
 # ⭐ Large-scale graph neural networks
-1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025
-2. 
+1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025      
 
-# ⭐ Key attention papers papers
+# ⭐ Key attention  
 014	Sutskever, Vinyals, Le (Seq2Seq)	Basic encoder–decoder without attention
 2015	Bahdanau et al.	🔥 Introduced the attention mechanism (soft alignment)
 2015	Luong et al., “Effective Approaches to Attention-based NMT”	Variants: global/local attention
 2017	Vaswani et al., “Attention Is All You Need”	Generalized attention → Transformer architecture (no recurrence, only attention)
 
-# ⭐ Self supervised learning (subset of unsupervised learning) papers
-## Key contrastive learning papers
+# ⭐ Self supervised learning (subset of unsupervised learning) 
+## Key contrastive learning 
 1. **CPC – Contrastive Predictive Coding** | Learned representations by **predicting future latent states** using **InfoNCE**      
 2. **Instance Discrimination** (Wu et al.) | Viewed each image instance as a separate class + **memory bank** for negatives
 3. **MoCo v1 – Momentum Contrast** | **Momentum encoder** + **queue** to maintain consistent negative samples
@@ -116,13 +111,13 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 13. GraphCLIP (Contrastive Language-Graph Pretraining) — Wang et al., NeurIPS 2023
 
 
-## Key generative learning papers
+## Key generative learning 
 1. GraphMAE: Self-Supervised Masked Graph Autoencoders, KDD 2022
 2. GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, WWW 2023| A masked graph autoencoder with EMA teacher–student regularization and muulti-view latent representation.
 
 3. GraphMAE2 (Hou et al., WWW 2023): A masked graph autoencoder with EMA teacher–student regularization that improves robustness by combining feature reconstruction and latent representation alignment in graph space.
 
-# ⭐ Key vector quantisation papers  
+# ⭐ Key vector quantisation   
 1. Vector quantizers with direct sum codebooks, IEEE Trans. on information theory, vol. 39, 1993
 2. Embedded wavelet zerotree coding with direct sum quantization structures, in Proceedings DCC’95 Data Compression Conference,  1995.
 3. wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations **(vector quantization for clustering and the codebook vector is taken into computing contrastive loss. )**
@@ -135,7 +130,7 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 1. Learning GraphQuantized Tokenizers, ICLR 2025
 2. 
 
-# ⭐ GNN to MLP knowledge distaaltion papers
+# ⭐ GNN to MLP knowledge distaaltion 
 1. Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction, 2025
 2. 
 
@@ -151,7 +146,7 @@ Graph SSL methods
 2. Self-supervised/Un-Supervised: No labels — model builds its own pseudo-task (e.g., contrastive learning, context prediction); common loss: InfoNCE, MI maximization
 3. Semi-supervised: Labeled + unlabeled data combined; comon loss: Labeled loss + self-supervised regularizer
 
-# ⭐ Key papers
+# ⭐ Key 
 1. Theory of Graph Neural Networks: Representation and Learning
 2. A Comprehensive Survey on Graph Neural Networks, 2019
 
@@ -278,13 +273,13 @@ These methods basically have two steps 1) Feature smoothing → captures graph s
 
 
 # ⭐ Graph constrastive learning
-## Survey papers
+## Survey 
 1. An Empirical Study of Graph Contrastive Learning, NIPS 2021      
 2. Towards Graph Contrastive Learning: A Survey and Beyond, ACM 2024
 3. Self-Supervised Learning on Graphs: Contrastive, Generative, or Predictive, IEEE transaction 2023
 4. Graph Self-Supervised Learning: A Survey, IEEE transaction 2023
 5. Self-supervised Learning on Graphs: Deep Insights and New Directions
-## Papers
+## 
 1.  Multi-grained contrastive-learning driven MLPs for node classification, Nature 2025 **(lucid explanation of GNN and CL)**
    
 LogiPlan: A Structured Benchmark for Logical Planning and
