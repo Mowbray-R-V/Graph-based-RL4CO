@@ -198,12 +198,6 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 ---
 
-
-
-# ⭐ Graph embedding (Converts graphs-high dimensional,non-euclidean space into low-dimensional continuous vector spaces)
-1. Understanding Graph Embedding Methods and Their Applications
-2. Toward Understanding and Evaluating Structural Node Embeddings, ACM 2021
-
 # ⭐ Graph based RL4CO
 1. GCOMB: Learning budget-constrained combinatorial algorithms over billion-sized graphs — NeurIPS 2020  
 2. LeNSE: Learning to navigate subgraph embeddings for large-scale combinatorial optimisation — ICML 2022  
@@ -230,7 +224,6 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 23. Multiple Agents Reinforcement Learning Based Influence Maximization in Social Network Services
 
 # ⭐ GNN scalability 
-
 1. GNN acceleration for large scale graphs — Beyond Message Passing: Neural Graph Pattern Machine, ICML 2025  
 2. Survey on graph neural network acceleration: An algorithmic perspective —  2022  
 3. Acceleration algorithms in GNNs: A survey — IEEE Transactions on Knowledge and Data Engineering, 2025  
@@ -247,7 +240,8 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 14. A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges  
 15. Do Transformers Really Perform Bad for Graph Representation?  
 
-<img width="1046" height="381" alt="image" src="https://github.com/user-attachments/assets/371b1811-d51e-4ed2-bc83-43fe2ebf32c0" />
+<img src="https://github.com/user-attachments/assets/371b1811-d51e-4ed2-bc83-43fe2ebf32c0" width="50%">
+
 
 # GNN generalisation (across different structures, label space and node feature space)
 1. How Powerful are Graph Neural Networks?, ICLR 2019 (Connects GNN expressivity and generalization to the Weisfeiler-Lehman test. Shows limits of message passing.)
