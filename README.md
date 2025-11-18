@@ -64,6 +64,12 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 6. DistilBERT: A Distilled Version of BERT, 2019
 7. BEiT: BERT Pre-Training of Image Transformers, CoRR (2021)      
 
+
+# ⭐ Grpah tokenizers
+1. Pure Transformers are Powerful Graph Learners **(TokenGT)**, NIPS 2022
+2. VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs, ICLR 2024 (**structural token for each node**)
+3. 
+
 ---
 
 
