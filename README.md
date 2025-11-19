@@ -74,6 +74,11 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 # ⭐ Grpah transformers
 1. [awesome graph transfomers](https://github.com/wehos/awesome-graph-transformer)
+2. Graph Transformers: A Survey, 2024
+3. Generalizable Insights for Graph Transformers in Theory and Practice, 2025
+4. Attending to Graph Transformers, TMLR 2025   **key**
+5. A Survey on Structure-Preserving Graph Transformers
+
 
 
 # ⭐ Large-scale graph neural networks
