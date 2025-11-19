@@ -72,6 +72,9 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 ---
 
+# ⭐ Grpah transformers
+1. [awesome graph transfomers](https://github.com/wehos/awesome-graph-transformer)
+
 
 # ⭐ Large-scale graph neural networks
 1. GiGL: Large-Scale Graph Neural Networks at Snapchat, KDD 2025      
