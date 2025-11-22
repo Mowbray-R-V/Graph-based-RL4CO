@@ -154,7 +154,13 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 3. GraphMAE2 (Hou et al., WWW 2023): A masked graph autoencoder with EMA teacher–student regularization that improves robustness by combining feature reconstruction and latent representation alignment in graph space.
 
 ---
+# ⭐ Multi-modal LLM 
 
+<img width="1271" height="508" alt="image" src="https://github.com/user-attachments/assets/9d849266-491b-467a-8c0e-b16f10e94338" />
+
+
+
+---
 # ⭐ Vector quantisation   
 1. Vector quantizers with direct sum codebooks, IEEE Trans. on information theory, vol. 39, 1993
 2. Embedded wavelet zerotree coding with direct sum quantization structures, in Proceedings DCC’95 Data Compression Conference,  1995.
