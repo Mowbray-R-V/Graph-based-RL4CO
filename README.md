@@ -154,6 +154,19 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 3. GraphMAE2 (Hou et al., WWW 2023): A masked graph autoencoder with EMA teacher–student regularization that improves robustness by combining feature reconstruction and latent representation alignment in graph space.
 
 ---
+# ⭐ Latent Space Regularization (avoids latent collapse and improves the training stabilisation; mostly in autoencoder models )      
+1. Context Autoencoder for Self-Supervised Representation Learning, 2023
+2. A Scalable and Effective Knowledge Distillation Framework for Graph Representation Learning, 2022
+3. SCR: Training Graph Neural Networks with Consistency Regularization, 2021
+4. Improving the Training of Graph Neural Networks with Consistency Regularization, 2021   
+
+
+
+----
+
+
+
+
 # ⭐ Multi-modal LLM 
 
 <img width="1271" height="508" alt="image" src="https://github.com/user-attachments/assets/9d849266-491b-467a-8c0e-b16f10e94338" />
