@@ -169,8 +169,9 @@ You are welcome to contribute! If you find a paper that is not yet included, ple
 
 # ⭐ Multi-modal LLM 
 
-<img width="1271" height="508" alt="image" src="https://github.com/user-attachments/assets/9d849266-491b-467a-8c0e-b16f10e94338" />
-
+<img width="1271" height="508" alt="image" src="https://github.com/user-attachments/assets/9d849266-491b-467a-8c0e-b16f10e94338" />         
+<img width="1050" height="333" alt="image" src="https://github.com/user-attachments/assets/9edd9a5b-4b2e-4319-ac75-0009486fd2a1" />
+  
 
 
 ---
